@@ -1,11 +1,5 @@
-<a href="https://www.beyondactivismo.org">
-  <img
-    src="https://beyondactivismo.org/wp-content/uploads/
-2017/11/LOGO-COMO-LOGO-PAG-copia-768x388.jpg"
-    align="center"
-    width=400
-  </img>
-</a>
+![LOGO COMO LOGO PAG copia](https://beyondactivismo.org/wp-content/uploads/2017/11/LOGO-COMO-LOGO-PAG-copia-768x388.jpg)
+    
 
 Trying to understand people from different cultures, religions and countries have in common through their activism, is an amazing but difficult task.
 With that in mind, we are working on an open project that tries
