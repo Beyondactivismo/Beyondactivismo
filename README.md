@@ -1,7 +1,7 @@
-![logo redes copia](https://user-images.githubusercontent.com/32823481/38769818-653a032a-4009-11e8-8ab4-870897539466.jpg)
-Trying to understand people from different cultures, religions and countries have in common through their activism, is an amazing but difficult task.
-With that in mind, we are working on an open project that tries
-to connect and share the histories & experiences of human rights activists, in an attractive and creative way.
+![captura de pantalla 2018-04-14 a las 5 34 16 p m](https://user-images.githubusercontent.com/32823481/38769860-213e506c-400a-11e8-83f8-7a6d1546fcb4.png)
+_Trying to understand people from different cultures, religions and countries have in common through their activism, is an amazing but difficult task._
+_With that in mind, we are working on an open project that tries
+to connect and share the histories & experiences of human rights activists, in an attractive and creative way._
 
 # Welcome
 
