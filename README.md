@@ -1,6 +1,4 @@
-![LOGO COMO LOGO PAG copia](https://beyondactivismo.org/wp-content/uploads/2017/11/LOGO-COMO-LOGO-PAG-copia-768x388.jpg)
-    
-
+![logo redes copia](https://user-images.githubusercontent.com/32823481/38769818-653a032a-4009-11e8-8ab4-870897539466.jpg)
 Trying to understand people from different cultures, religions and countries have in common through their activism, is an amazing but difficult task.
 With that in mind, we are working on an open project that tries
 to connect and share the histories & experiences of human rights activists, in an attractive and creative way.
@@ -32,44 +30,40 @@ On the other hand, human rights activists can inspire, interact, collaborate and
 
 ### How do we plan to achieve this?
 
-We are building a community of collaborators with different skills to help us to document and share the experiences and histories of human rights activists, in an attractive and creative way.
+We are planning to achive this problems basically through three mechanisms that converge::
 
-We are also working on a multilingual platform where we can share the content created by the BA Community. We believe that by using the internet to create a safe and healthy space, we can break different physical and non-physical borders to allow everyone to benefit from this project.
+**1. Interviews**: We see the interviews are a way to connect. 
+That is why we strongly believe that we need to know and share the histories and experiences of human rights activists
+in a creative and attractive way. Because of the importance of the interviews we have always to keep on mind their purposes, which are know about:
 
-To facilitate the production of content about human rights activists, we are creating tools and templates to ease and standardize workflows.
+- the background of the activists
+- about their motivations
+- her/is way to think and do activist
+- their experiences doing activism and recommendations
+- their support doing activism
+- to connect the activists with our lectors, community and future interest collaborators and activists.
 
-### Who can contribute and How?
+It is also important to say, that the improvement of the storytelling of the content of the interviews is strongly related to the achievment of our goals, so is something that we need to have always in mind when we upload the interviews.
 
-All of you are invited to contribute to Beyond Activismo!
+**2. Open Platform**: As a project based on internet that has the need to expand arround the world to commite its goals,
+we are working in a open platform that has in mind the following principles:
 
-But most importantly, we welcome people interested in participating in a Human Rights Project.
-We need all kind of contributions, for example:
+a) Opennes: Our project is thought as a open network of collaborators where they can work, give ideas, make improvements, take decisions, and so on. 
+That is why we are working with open repositories where among other things our community can:
 
-- Expertise in fundraising: You can help us looking for raising funds to finance activities and projects of BA
-- Web development:  
-- Translation: You can translate our interviews and the website in different languages
+- promote ideas, projects, activist to interview, etc.  
+- design and improvement of our website
+- create, improve and distribute content (for example, submitt written interviews, documentary films, photographys, animations, etc) 
+- create, improve and use toolkits (to facilitate the production of content about human rights activists, we are creating tools and templates to ease and standardize workflows in a safe multilingual platform, because we believe that using the internet to create a safe and healthy space, we can break different physical and non physical borders to allow everyone to benefit from this project)
+- translate the content uploade by the community
+- promote the re-utilization of content (BA works with Licenses where the only restriction is the recognition of authorship of the works)
 
+b) Decentralization: Our project is thought as a global community of passionate Internet users who share our vision. They can work in our platform where we are going to use open standards to facilitate the interoperability. 
 
-- Design: 
-  - User experience (UX)
-  - Privacy by Design (PbD)
-  - Graphic Design
-  - Game Designers
-  - Web designers...
-
-
-- Artists:
-  - filmmakers: You can film our interviews and documenting the interviewees activists
-  - photographers: Through the photographies you can documenting the work of activists
-  - illustrators: You can make the visual of BA more attractive 
-  - game designers
-  - multimedia and animators
-  - musicians: You can musicalize the documentation of the interviews of Beyond Activismo
+c) Digital Inclusion: We believe in a place where everybody can participate without threats to our or others reputation, confidence, or safety. Beyond Activismo is aim to be a platform where we promote and expect diversity and respect. If we could achieve to everyone is because we are achieving our goal.
 
 
-- Interviewers (whether journalists or not): If you want to documenting the work of activists, 
-and want to share her or his experiences through an interview, you are welcome to do it!
-- Researchers
+**3. Community**: To achieve our goals we need to build a community of collaborators, readers, activists, sharers and so on to benefit the project from their different skills. As we said before it is a project thought as a open, decentralized and inclusive global community, that is why without a strong community this project will be never succeed. 
 
 ### Why it is exciting to take part in Beyond Activismo?
 Beyond Activismo is exciting because it aims to be a global, open community of collaborators willing to share and create content about the experiences and histories of human rights activists.
@@ -77,11 +71,11 @@ Beyond Activismo is exciting because it aims to be a global, open community of c
 Being part of Beyond Activismo is a way to make a change, inspire others, and co-work with diversely-skilled people around the world who want to spread the word, and help others to find solutions, inspiration and
 friends along the way.
 
-### Contact us
+### Get involve?
 
-contact@beyondactivismo.org   
-PGP Fingerprint --> 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72   
-[Public Key][link_Publickey]   
+Everybody can be involved in Beyond Activismo and there are multiple ways to do it. 
+
+You can read this Contributing Guidelines and find a role that matches your capabilities or your availability.  
 
 ### Follow us and Chat with us
 [Twitter][link_Twitter]   
@@ -89,8 +83,13 @@ PGP Fingerprint --> 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72
 
 ### Many Thanks for visiting us!
 We are very happy to share our project with you, we want to make an impact on others, and we hope that you can help us do so!
-
 Many thanks for your valuable visit, and we would really appreciate your comments and suggestions.
+
+### Contact us
+contact@beyondactivismo.org   
+PGP Fingerprint --> 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72   
+[Public Key][link_Publickey] 
+
 [link_Publickey]: https://pgp.mit.edu/pks/lookup?op=get&search=0x867F4D89D61F8F72
 [link_Twitter]: https://twitter.com/beyondactivismo
 [link_Gitter]: https://gitter.im/Beyond-Activismo/Lobby
