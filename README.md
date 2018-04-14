@@ -6,9 +6,10 @@ to connect and share the histories & experiences of human rights activists, in a
 # Welcome
 
 Hi! Welcome to Beyond Activismo!
+
 Thank you very much  for visiting us, we are very happy to share information about the project, and also to have the possibility of inviting you to be part of this community.
 
-If you want you can jump straight to one of the sections below, or just scroll down to find out more:smiley:
+If you want you can jump straight to one of the sections below, or just scroll down to find out more :smiley: 
 
 * [What are we doing?](#what-are-we-doing)
 * [What is our solution?](#what-is-our-solution)
