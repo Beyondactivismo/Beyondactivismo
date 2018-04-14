@@ -5,12 +5,21 @@ to connect and share the histories & experiences of human rights activists, in a
 
 # Welcome
 
-
 Hi! Welcome to Beyond Activismo!
 Thank you very much  for visiting us, we are very happy to share information about the project, and also to have the possibility of inviting you to be part of this community.
 
-### What are we doing
-About Beyond Activismo
+If you want you can jump straight to one of the sections below, or just scroll down to find out more:smiley:
+
+* [What are we doing?](#what-are-we-doing)
+* [What is our solution?](#what-is-our-solution)
+* [How do we plan to achieve this?](#how-do-we-plan-to-achieve-this)
+* [Why it is exciting to take part in Beyond Activismo?](#why-it-is-exciting-to-take-part-in-beyond-activismo)
+* [Get involve?](#get-involve)
+* [Follow us and Chat with us](#follow-us-and-chat-with-us)
+* [Many thanks for visiting us!](#many-thanks-for-visiting-us)
+* [Contact us](#contact-us)
+
+### What are we doing?
 
 We are addressing the following problems:
 
@@ -82,6 +91,8 @@ You can read this Contributing Guidelines and find a role that matches your capa
 [Gitter][link_Gitter]
 
 ### Many Thanks for visiting us!
+:tada: :smiley: :tada:          
+
 We are very happy to share our project with you, we want to make an impact on others, and we hope that you can help us do so!
 Many thanks for your valuable visit, and we would really appreciate your comments and suggestions.
 
