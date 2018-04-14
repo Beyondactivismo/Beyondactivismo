@@ -45,9 +45,11 @@ All of you are invited to contribute to Beyond Activismo!
 But most importantly, we welcome people interested in participating in a Human Rights Project.
 We need all kind of contributions, for example:
 
-- expertise in fundraising
-- web development 
-- translation, 
+- Expertise in fundraising: You can help us looking for raising funds to finance activities and projects of BA
+- Web development:  
+- Translation: You can translate our interviews and the website in different languages
+
+
 - Design: 
   - User experience (UX)
   - Privacy by Design (PbD)
@@ -55,18 +57,19 @@ We need all kind of contributions, for example:
   - Game Designers
   - Web designers...
 
+
 - Artists:
-  - filmmakers
-  - photographers
-  - illustrators
+  - filmmakers: You can film our interviews and documenting the interviewees activists
+  - photographers: Through the photographies you can documenting the work of activists
+  - illustrators: You can make the visual of BA more attractive 
   - game designers
   - multimedia and animators
-  - musicians...
+  - musicians: You can musicalize the documentation of the interviews of Beyond Activismo
 
-- Interviewers (whether journalists or not)
+
+- Interviewers (whether journalists or not): If you want to documenting the work of activists, 
+and want to share her or his experiences through an interview, you are welcome to do it!
 - Researchers
-
-Everybody who would like to take part in this project!!
 
 ### Why it is exciting to take part in Beyond Activismo?
 Beyond Activismo is exciting because it aims to be a global, open community of collaborators willing to share and create content about the experiences and histories of human rights activists.
