@@ -3,7 +3,7 @@
 
 Trying to understand people from different cultures, religions and countries have in common through their activism, is an amazing but difficult task.
 With that in mind, we are working on an open project that tries
-to connect and share the stories & experiences of human rights activists, in an attractive and creative way.
+to connect and share the histories & experiences of human rights activists, in an attractive and creative way.
 
 # Welcome
 
