@@ -1,4 +1,4 @@
-![captura de pantalla 2018-04-14 a las 5 34 16 p m](https://user-images.githubusercontent.com/32823481/38769860-213e506c-400a-11e8-83f8-7a6d1546fcb4.png)  
+![captura de pantalla 2018-04-14 a las 5 36 52 p m](https://user-images.githubusercontent.com/32823481/38769888-7f244cea-400a-11e8-80a7-293dc415c086.png)  
 _Trying to understand people from different cultures, religions and countries have in common through their activism, is an amazing but difficult task._
 _With that in mind, we are working on an open project that tries
 to connect and share the histories & experiences of human rights activists, in an attractive and creative way._
