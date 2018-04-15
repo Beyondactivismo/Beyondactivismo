@@ -5,13 +5,16 @@
 _Trying to understand people from different cultures, religions and countries have in common through their activism, is an amazing but difficult task. With that in mind, we are working on an open project that tries to connect and share the histories & experiences of human rights activists, in an attractive and creative way._
 
 **WELCOME!!** 🎉 🎉 
+
 Hi! Thank you very much to interested in collaborated with us! We are very interested in wanting to participate with us 😃 
 
 **CODE OF CONDUCT** 📚 
+
 Before you read how can you get involved with Beyond Activismo, you must read our [Code of Conduct](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/CODE_OF_CONDUCT.md). For us it is very important that every collaborator should know which are our values.
 
 
 **CONTRIBUTING** 
+
 For us is very important your contribution, so if you are wondering _How can I get involved?_ 
 You can do it throught: 
 
@@ -46,6 +49,7 @@ Here you can find the [Contributing Guideline for Interviewers](https://github.c
 
 
 **CONTACT US**
+
 If you have any question, you can write to us to: contact@beyondactivismo.org
 PGP Fingerprint --> 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72   
 [Public Key][link_Publickey] 
@@ -53,3 +57,12 @@ PGP Fingerprint --> 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72
 [link_Publickey]: https://pgp.mit.edu/pks/lookup?op=get&search=0x867F4D89D61F8F72
 [link_Twitter]: https://twitter.com/beyondactivismo
 [link_Gitter]: https://gitter.im/Beyond-Activismo/Lobby
+
+**FOLLOW AND CHAT WITH US** 
+
+[Twitter][link_Twitter]   
+[Gitter][link_Gitter]
+
+
+
+
