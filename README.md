@@ -87,6 +87,12 @@ Everybody can be involved in Beyond Activismo and there are multiple ways to do 
 
 You can read this Contributing Guidelines and find a role that matches your capabilities or your availability.  
 
+### MozSprint
+
+Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) May 10-11, 2018! We'll be gathering online to collaborate on this project and learn from each other.
+
+![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
+
 ### Follow us and Chat with us
 [Twitter][link_Twitter]   
 [Gitter][link_Gitter]
