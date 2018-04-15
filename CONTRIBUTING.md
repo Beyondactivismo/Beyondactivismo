@@ -38,8 +38,7 @@ You can do it throught:
 
 **6.- Interviewers (whether journalists or not):** If you want to documenting the work of activists, 
 and want to share her or his experiences through an interview, you are welcome to do it!
-Here you can find the [Guideline_to_Beyond_Activismo_Interviewers.md] 
-(https://github.com/Beyondactivismo/Beyondactivismo/projects/4#card-8981374) 
+Here you can find the [Contributing Guideline for Interviewers](https://github.com/Beyondactivismo/Beyondactivismo/projects/4#card-8981374). 
 
 **7.- Researchers:**
 
