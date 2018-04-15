@@ -1,5 +1,6 @@
 # NON SOFTWARE CONTENT OF THE PROJECT
 
+The none-code works are under the following license:
 ---
 Creative Commons Attribution 4.0
 spdx-id: CC-BY-4.0
