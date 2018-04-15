@@ -16,6 +16,7 @@ Before you read how can you get involved with Beyond Activismo, you must read ou
 **CONTRIBUTING** 
 
 For us is very important your contribution, so if you are wondering _How can I get involved?_ 
+
 You can do it throught: 
 
 **1. Expertise in fundraising:** You can help us looking for raising funds to finance activities and projects of BA.
@@ -59,6 +60,8 @@ PGP Fingerprint --> 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72
 [link_Gitter]: https://gitter.im/Beyond-Activismo/Lobby
 
 **FOLLOW AND CHAT WITH US** 
+
+We can get in touch also in:
 
 [Twitter][link_Twitter]   
 [Gitter][link_Gitter]
