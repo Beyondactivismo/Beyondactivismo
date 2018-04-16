@@ -110,7 +110,7 @@ PGP Fingerprint --> 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72
 
 ### License
 
-The content is under the following license:
+The non Code content is under the following license:
 Creative Commons Attribution 4.0  
 This License permits almost any use subject to providing credit and license notice.   
 [Link of the License `CC-BY-4.0`](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
