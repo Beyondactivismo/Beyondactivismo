@@ -108,6 +108,13 @@ contact@beyondactivismo.org
 PGP Fingerprint --> 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72   
 [Public Key][link_Publickey] 
 
+### License
+
+The content is under the following license:
+Creative Commons Attribution 4.0  
+This License permits almost any use subject to providing credit and license notice.   
+[Link of the License `CC-BY-4.0`](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
+
 [link_Publickey]: https://pgp.mit.edu/pks/lookup?op=get&search=0x867F4D89D61F8F72
 [link_Twitter]: https://twitter.com/beyondactivismo
 [link_Gitter]: https://gitter.im/Beyond-Activismo/Lobby
