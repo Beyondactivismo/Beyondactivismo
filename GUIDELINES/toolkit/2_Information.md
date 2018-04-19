@@ -44,19 +44,23 @@ scheme can be freely modified.
     
     
 **B) Questions related to her or his activity:**
+
 As a project trying to build a community of knowledge to present and future activist
 we need to achieve some information about our interviewees. That is why wee need to:
 
- _Understand How They See Activism
-    1. If they consider themselves activists. 
-    2. What is an activist and what is to do activism to them. 
-    3. How they defined their way to do activism. 
-Examples:
+ _**Understand How They See Activism**_
+   
+   1. If they consider themselves activists. 
+   2. What is an activist and what is to do activism to them. 
+   3. How they defined their way to do activism. 
+
+_Examples:_
     • Do you consider yourself an activist?
     • What is the positive side to be an activist? What is the negative?
     • How do you define your way to make activism?
 
 _**Understand Their Motivations**_
+    
     1. Why and how they become an activists. 
     2. What motivates them every day to continue working as activists. 
     3. What are the positive and negative aspects in the life of an activist. 
@@ -69,12 +73,13 @@ _Examples:__
     • What motivates you to fight every day for your cause?
 
 _**Know their Struggles, Defeats, Victories and Experience**_
-    1. Which are the major problems that they identified to achieve their goals and how they overcome them. 
-    2. If they put their life in risk doing activism. 
-    3. What have been their joys or greatest victories fighting for their cause. 
-    4. What did they learn about how to make impact in benefits of their causes. 
-    5. Which are the key aspects or elements that they put into their advocacy campaigns. 
-    6. What changes have they made in society or are they helping to make (Real Examples). 
+   
+   1. Which are the major problems that they identified to achieve their goals and how they overcome them. 
+   2. If they put their life in risk doing activism. 
+   3. What have been their joys or greatest victories fighting for their cause. 
+   4. What did they learn about how to make impact in benefits of their causes. 
+   5. Which are the key aspects or elements that they put into their advocacy campaigns. 
+   6. What changes have they made in society or are they helping to make (Real Examples). 
 
 _Examples:_
     • What has been the most difficult part in your daily struggle as an activist?
@@ -83,6 +88,7 @@ _Examples:_
     • How was the process in which you became an activist?
 
 _**Know About their Support**_
+
     1. Who (group of persons/authority/ organization/ etc) support they at the beginning (human and monetary resources). 
     2. How is the collaboration and help from other civil society organizations. 
     3. How they do it to attract people to collaborate with them. 
