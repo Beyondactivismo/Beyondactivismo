@@ -1,4 +1,4 @@
-I. Basic Information:
+## I. Basic Information:
 Before you start the interview, you should have the following basic information:
     
     • Full name:
@@ -17,7 +17,7 @@ use of the interview and the images of the interviewee within the purpose of the
 
 
 
-II. Scheme of questions for the interviews to Beyond Activismo:
+## II. Scheme of questions for the interviews to Beyond Activismo:
 
 Below is a schema of questions to ask the interviewee, without prejudice to it,
 BA believes on the contribution of new ideas and the freedom of creativity
@@ -26,7 +26,7 @@ Therefore, the following questions are only an example, and the order of the
 scheme can be freely modified.
 
 
-A)Before begining the interview:
+**A)Before begining the interview:**
     
     • Brief introduction:
    
@@ -43,7 +43,7 @@ A)Before begining the interview:
     • What did you do before you start your activity like activist?
     
     
-B) Questions related to her or his activity:
+**B) Questions related to her or his activity:**
 As a project trying to build a community of knowledge to present and future activist
 we need to achieve some information about our interviewees. That is why wee need to:
 
@@ -56,38 +56,41 @@ Examples:
     • What is the positive side to be an activist? What is the negative?
     • How do you define your way to make activism?
 
-_Understand Their Motivations
+_**Understand Their Motivations**_
     1. Why and how they become an activists. 
     2. What motivates them every day to continue working as activists. 
     3. What are the positive and negative aspects in the life of an activist. 
-Examples:
+
+_Examples:__
     • What motivated you to start to participate like activist?
     • When you decided to become an activist?
     • There was a particular event who motivated you to become an activist?
     • How did you involved in Human Rights causes?
     • What motivates you to fight every day for your cause?
 
-_Know their Struggles, Defeats, Victories and Experience
+_**Know their Struggles, Defeats, Victories and Experience**_
     1. Which are the major problems that they identified to achieve their goals and how they overcome them. 
     2. If they put their life in risk doing activism. 
     3. What have been their joys or greatest victories fighting for their cause. 
     4. What did they learn about how to make impact in benefits of their causes. 
     5. Which are the key aspects or elements that they put into their advocacy campaigns. 
     6. What changes have they made in society or are they helping to make (Real Examples). 
-Examples:
+
+_Examples:_
     • What has been the most difficult part in your daily struggle as an activist?
     • Has your life been or is it in danger?
     • Did you receive a threat for doing what you do? Do you have an experience to tell us?
     • How was the process in which you became an activist?
 
-_Know About their Support
+_**Know About their Support**_
     1. Who (group of persons/authority/ organization/ etc) support they at the beginning (human and monetary resources). 
     2. How is the collaboration and help from other civil society organizations. 
     3. How they do it to attract people to collaborate with them. 
     4. Criticism regarding support for human rights activists. 
     5. Recommendations of how to get human and monetary resources. 
     6. How they do to create impact. 
-Examples:
+
+_Examples:_
     • Who support you at the beginning?
     • Your supporters from the beginning are still with you?
     • How do you do to keep your supporters?
