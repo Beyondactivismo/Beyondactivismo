@@ -1,13 +1,13 @@
 ## I. Basic Information:
 Before you start the interview, you should have the following basic information:
     
-    • Full name:
-    • Nacionality:
-    • Age:
-    • Language(s):
-    • Profession or Office:
-    • Current position:
-    • Organization or Institution:
+  * Full name:
+  * Nacionality:
+  * Age:
+  * Language(s):
+  * Profession or Office:
+  * Current position:
+  * Organization or Institution:
     
 If the interviewee wants to protect his or her identity, you don´t have to complete this basic information form. 
 But you will have to follow another procedure that let us verify the information.
@@ -19,23 +19,22 @@ use of the interview and the images of the interviewee within the purpose of the
 
 ## II. Scheme of questions for the interviews to Beyond Activismo:
 
-Below is a schema of questions to ask the interviewee, without prejudice to it,
+Below is a schema of questions to ask the interviewee, without prejudicing her/him.
 BA believes on the contribution of new ideas and the freedom of creativity
 from each one of our collaborators.
-Therefore, the following questions are only an example, and the order of the
-scheme can be freely modified.
+Therefore, the following questions can also be taken as a example.  The flow of the interview can be freely modified.
 
 
 **A)Before begining the interview:**
-    
-    • Brief introduction:
+   
+   * Brief introduction:
    
    BA: from our side, it is very important to set up a transparent and trustable enviroment. That is why we recomend to start 
-   wiht an introduction about the purpose of the interview, our methodologie and most important always give the interviewee 
+   wiht an introduction about our purpose and methodologie but most important always give the interviewee 
    the space to ask us as many as wants. 
    
    IN:Because our goal is geting to know people it might be helpful to know about their background
-   e.g. where she/he grow up or  where are they from, what did she/he do before becoming an activist. 
+   e.g. where she/he grow up or  where is she/he from, what did she/he do before becoming an activist. 
 
    Examples:
     • Can you tell us about yourself?
@@ -45,10 +44,10 @@ scheme can be freely modified.
     
 **B) Questions related to her or his activity:**
 
-As a project trying to build a community of knowledge to present and future activist
-we need to achieve some information about our interviewees. That is why wee need to:
+As our main goal is to build a community based on trustable information to present and future about activist
+we need to be able to comprehend:
 
- _**Understand How They See Activism**_
+ _**How they see Activism**_
    
    1. If they consider themselves activists. 
    2. What is an activist and what is to do activism to them. 
@@ -59,7 +58,7 @@ _Examples:_
     • What is the positive side to be an activist? What is the negative?
     • How do you define your way to make activism?
 
-_**Understand Their Motivations**_
+_**Their motivations**_
     
     1. Why and how they become an activists. 
     2. What motivates them every day to continue working as activists. 
@@ -72,7 +71,7 @@ _Examples:__
     • How did you involved in Human Rights causes?
     • What motivates you to fight every day for your cause?
 
-_**Know their Struggles, Defeats, Victories and Experience**_
+_**Know their struggles, defeats, victories and experience**_
    
    1. Which are the major problems that they identified to achieve their goals and how they overcome them. 
    2. If they put their life in risk doing activism. 
@@ -87,7 +86,7 @@ _Examples:_
     • Did you receive a threat for doing what you do? Do you have an experience to tell us?
     • How was the process in which you became an activist?
 
-_**Know About their Support**_
+_**Who supports them**_
 
     1. Who (group of persons/authority/ organization/ etc) support they at the beginning (human and monetary resources). 
     2. How is the collaboration and help from other civil society organizations. 
