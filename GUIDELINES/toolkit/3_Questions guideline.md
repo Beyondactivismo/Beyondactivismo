@@ -1,32 +1,34 @@
-## II. Scheme of questions for the interviews to Beyond Activismo:
+## Scheme of questions for the interviews to Beyond Activismo:
 
-This schema thinks to work as a guideline and support for all our collaborators to understand BA purpose. 
+This scheme works as a guideline and support for all our collaborators to understan BA purpose. 
 We believe on the contribution of new ideas and the freedom of creativity from each one of our collaborators.
-Therefore, the following questions can also be taken as examples, the flow of the interview can be freely modified.
+Therefore, the following questions can also be taken as examples, also the flow of the interview can be freely modified.
 
 
-**A)Before begining the interview:**
+### **A)Starting the interview:**
    
    * Brief introduction:
    
-   **BA:** from our side, it is very important to set up a transparent and trustable enviroment. That is why we recomend to start 
-   wiht an introduction about our purpose and methodologies but most important always give the interviewee 
-   the space to ask us as many questions as she/he wants. 
+   **BA:** from our side, it is very important to set up a transparent and trustable enviroment. That is why we recomend to start wiht an introduction about our methodologie but most important always give the interviewee 
+   the space to ask us as many as wants. 
+   It is imprtant at this point to explain how our the process would be :
    
-   **IN:** Because our goal is getting to know people it might be helpful to know about their backgrounds:
+   * do the interview
+   * upload the material on the platform 
+   * pass through the data checking team 
+   * pass through the design team 
+   * be send to the interviewee to check the content and sotrytelling
+   * possible corrections
+   * publish it on www.beyondactivismo.org
    
+   
+   **IN** To start who you are? what do you do? What cause/s are you pursuing?  
+   
+   
+ ### **B) BODY:** 
 
-   _Examples:_
-   
-    * Can you tell us about yourself?
-    * How do you introduce yourself to the people who interact with Beyond Activismo?
-    * What did you do before you start your activity like activist?
-    
-    
-**B) Questions related to her or his activity:**
-
-As our main goal is to build a community based on trustable information about activist
-we need to be able to comprehend:
+These are questions related to her/his activity. As our main goal is to build a community based on trustable information
+about activist we need to be able to comprehend:
 
  _**How they see Activism**_
    
@@ -36,15 +38,15 @@ we need to be able to comprehend:
 
 _Examples:_
 
-   * Do you consider yourself an activist?
-   * What is the positive side to be an activist? What is the negative?
-   * How do you define your way to make activism?
+    * Do you consider yourself an activist?
+    * What is the positive side to be an activist? What is the negative?
+    * How do you define your way to make activism?
 
 _**Their motivations**_
     
-    1. Why and how they become an activists. 
-    2. What motivates them every day to continue working as activists. 
-    3. What are the positive and negative aspects in the life of an activist. 
+   1. Why and how they become an activists. 
+   2. What motivates them every day to continue working as activists. 
+   3. What are the positive and negative aspects in the life of an activist. 
 
 _Examples:_
 
@@ -73,12 +75,12 @@ _Examples:_
 
 _**Who supports them**_
 
-    1. Who (group of persons/authority/ organization/ etc) support they at the beginning (human and monetary resources). 
-    2. How is the collaboration and help from other civil society organizations. 
-    3. How do they do to attract people to collaborate with them. 
-    4. Criticism regarding support for human rights activists. 
-    5. Recommendations of how to get human and monetary resources. 
-    6. How they do to create impact. 
+   1. Who (group of persons/authority/ organization/ etc) support they at the beginning (human and monetary resources). 
+   2. How is the collaboration and help from other civil society organizations. 
+   3. How do they do to attract people to collaborate with them. 
+   4. Criticism regarding support for human rights activists. 
+   5. Recommendations of how to get human and monetary resources. 
+   6. How they do to create impact. 
 
 _Examples:_
 
@@ -90,41 +92,13 @@ _Examples:_
     * Do you have positive and negative comments about the cooperation between different human rights organizations in your field?
 
 
-C) Closing Questions:
+## Closing Questions:
 
-On this last stage our purpose is try to connect the interviewee with our community.
+On this last stage our purpose is try to connect the interviewee with our community. There fore we ask you to follow this last 4 questions. 
 
-Know about some personal opinion or recommendations to other activists
 
-Examples:
-    
     * Do you have some message for the people who wants to participate in activism?
-
-causes related to the defense and promotion of human rights?
-    
-    * What can you say to encourage others to fight for their causes?
-
-Examples:
-
-Know about how to collaborate or Support them
-Examples:
-
-    * Do you have some message to those who want to contact you?
-    * How our readers can contact, support or collaborate with you?
-
-Know about a special message that they want to deliver to someone particularly
-Examples:
-   
+    * How can our readers get in contact, support or collaborate with you?
     * To what authority would you send a message and what would it be? 
+    * Which activist would you recommend for the next interview? Is there anything you always wanted to know about her/him? 
 
-**Know about another Activist that they apreciate or they want that we interview**
-
-Examples:
-    
-    * Which activist would you recommend for the next interview?
-    Which question would you like to ask her / him? 
-
-Share a message of encouragement to the work of the BA's Community
-Examples:
-    • What message would you give to the people who participate and
-collaborate in BA? 
