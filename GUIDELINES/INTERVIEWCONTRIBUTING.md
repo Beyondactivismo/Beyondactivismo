@@ -186,9 +186,10 @@ collaborate in Beyond Activismo?
 ## Example
 
 **Introduction**
-In ein paar Sätzen, stelle dich bitte vor und wofür setzt du dich in der Öffentlichkeit ein?
+In ein paar Sätzen, stelle dich bitte vor und wofür setzt du dich in der Öffentlichkeit ein?  
 
-**Getting into it**
+**Getting into it**  
+
 1. Wie kamst du dazu, dich in der  Öffentlichkeit zu engagieren? Gab es eine spezielle Situation, die dich dazu veranlasst hat? 
  
 2. how did your group/collective/ngo started, what help did you recive than from what agents.
@@ -197,9 +198,9 @@ In ein paar Sätzen, stelle dich bitte vor und wofür setzt du dich in der Öffe
 
 4. Wie ist die Unterstüzung durch andere zivilgesellschaftliche Organisationen? Hast du auch Kritik an anderen Akteuren?
 
-5. Go into a campaing tha the activist did and wich you found interesting
+5. Ask about a campaing that the activist did and that you find interesting.
 
-**activism in general**
+**activism in general**  
 1. Do you define yourself as an activist, how do you define activism.
 
 2. Was motiviert dich tagtäglich, für deine Anliegen weiter zu kämpfen?
@@ -210,9 +211,7 @@ In ein paar Sätzen, stelle dich bitte vor und wofür setzt du dich in der Öffe
 
 5.Could you share an experience, a piece of advise for people who think about becoming agents of change in their communities?
 
-**Ending the interview**
-
- 
+**Ending the interview**  
 1. Würdest du uns einen Aktivisten empfehlen, den wir interviewen könnten? Was wolltest du ihn schon immer fragen?
 2. Did you like the interview? Do you have feedback? 
 3. Explain that you will share the interview with your interviewee before publishing, to give him the posibility of correcting editorial mistakes.  
