@@ -1,13 +1,10 @@
 ## Scheme of questions for the interviews to Beyond Activismo:
 
 This scheme works as a guideline and support for all our collaborators to understan BA purpose. 
-We believe on the contribution of new ideas and the freedom of creativity from each one of our collaborators.
-Therefore, the following questions can also be taken as examples, also the flow of the interview can be freely modified.
 
 
-### **A)Starting the interview:**
+### **A)INTRODUCTION:**
    
-   * Brief introduction:
    
    **BA:** from our side, it is very important to set up a transparent and trustable enviroment. That is why we recomend to start wiht an introduction about our methodologie but most important always give the interviewee 
    the space to ask us as many as wants. 
@@ -22,12 +19,18 @@ Therefore, the following questions can also be taken as examples, also the flow 
    * publish it on www.beyondactivismo.org
    
    
-   **IN** To start who you are? what do you do? What cause/s are you pursuing?  
+   **IN** In order to set up a connection between all the Histories we set up a pull of opening questions we ask you to follow: 
+   
+   * Who you are? 
+   * What do you do? 
+   * What cause/s are you pursuing?  
    
    
  ### **B) BODY:** 
 
-These are questions related to her/his activity. As our main goal is to build a community based on trustable information
+We believe on the contribution of new ideas and the freedom of creativity from each one of our collaborators.
+Therefore, the following questions can also be taken as examples, also the flow of the interview can be freely modified.
+The focus of this part is on her/his activity. As our main goal is to build a community based on trustable information
 about activist we need to be able to comprehend:
 
  _**How they see Activism**_
@@ -57,7 +60,7 @@ _Examples:_
     * What motivates you to fight every day for your cause?
     * How was the process in which you became an activist?
     
-_**Know their struggles, defeats, victories and experience**_
+_**Know their struggles, defeats and victories**_
    
    1. Which are the major problems that they identified to achieve their goals and how they overcome them. 
    2. If they put their life in risk doing activism. 
@@ -92,7 +95,7 @@ _Examples:_
     * Do you have positive and negative comments about the cooperation between different human rights organizations in your field?
 
 
-## Closing Questions:
+## CLOSING
 
 On this last stage our purpose is try to connect the interviewee with our community. There fore we ask you to follow this last 4 questions. 
 
