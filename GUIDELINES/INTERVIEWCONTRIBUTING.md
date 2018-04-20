@@ -34,6 +34,7 @@ By virtue of this, **the following questions are only an example, and the order 
 scheme can be freely modified**.
 
 **Before to begin the interview:**
+
 - The interviewer must give a brief introduction 
 about her/his self with a explanation about the purpose of the interview.
 
@@ -178,3 +179,36 @@ Examples:
 
 + What message would you give to the people who participate and
 collaborate in Beyond Activismo?
+
+## Example
+1. In ein paar Sätzen, stelle dich bitte vor und wofür setzt du dich in der Öffentlichkeit ein?
+
+2.Wie kamst du dazu, dich in der  Öffentlichkeit zu engagieren? Gab es eine spezielle Situation, die dich dazu veranlasst hat? 
+
+3. Wir haben gelesen, dass du eine Verbindung zu Südamerika hat. Das hat uns speziell interessiert, da zurzeit alle, die an unsere Initiative beteiligt sind, aus Südamerika stammen. Worin besteht deine Verbindung zu Südamerika?
+ 
+4. Wie sind die Sozialhelden entstanden? Welche Hilfe hattet ihr bei der Gründung?
+
+5. Wie haben sich die Sozialhelden entwickelt, welche Auswirkungen haben sie auf die Gesellschaft?
+
+6. Wie ist die Unterstüzung durch andere zivilgesellschaftliche Organisationen? Hast du auch Kritik an anderen Akteuren?
+
+7. Die Kampagnen an denen du mitgewirkt hast, wie zum Beispiel Wheelmap, haben  große internationale Anklang gefunden. Auf deinen Erfahrungen aufbauend, was braucht es für eine erfolgreiche Kampagne.
+
+8. Du definierst dich selber als Aktivist. Was heißt das für dich und seit wann definierst du dich so?
+
+9. Was unterscheidet dich von anderen Aktivisten?
+
+10. Was motiviert dich tagtäglich, für deine Anliegen weiter zu kämpfen?
+
+11. Wie hat sich dein Leben durch deine Aktivität als Aktivist verändert. Was sind positive, was sind negative Momente?
+
+´
+12. Wurdest du schon mal wehen deiner Tätigkeit als Aktivist bedroht? Was ist das schwierigste an einem Leben als Aktivist?
+
+13. Eine Nachricht an alle, die sich für Menschenrechte auf dieser Welt einsetzen? 
+ 
+14. Würdest du uns einen Aktivisten empfehlen, den wir interviewen könnten? Was wolltest du ihn schon immer fragen?
+
+
+
