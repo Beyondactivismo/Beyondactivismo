@@ -1,6 +1,6 @@
 ## II. Scheme of questions for the interviews to Beyond Activismo:
 
-This schema sicks to work as a guideline and support for all our collaborators to understan BA purpose. 
+This schema thinks to work as a guideline and support for all our collaborators to understan BA purpose. 
 We believe on the contribution of new ideas and the freedom of creativity from each one of our collaborators.
 Therefore, the following questions can also be taken as examples, also the flow of the interview can be freely modified.
 
