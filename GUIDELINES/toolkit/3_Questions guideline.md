@@ -3,12 +3,11 @@
 This scheme works as a guideline and support for all our collaborators to understan BA purpose. 
 
 
-### **A)INTRODUCTION:**
+### **INTRODUCTION:**
    
    
-   **BA:** from our side, it is very important to set up a transparent and trustable enviroment. That is why we recomend to start wiht an introduction about our methodologie but most important always give the interviewee 
-   the space to ask us as many as wants. 
-   It is imprtant at this point to explain how our the process would be :
+   From our side, it is very important to set up a transparent and trustable enviroment.
+   That is why we recomend to start wiht an introduction about our methodologie:
    
    * do the interview
    * upload the material on the platform 
@@ -18,15 +17,20 @@ This scheme works as a guideline and support for all our collaborators to unders
    * possible corrections
    * publish it on www.beyondactivismo.org
    
+                  
+                  Don´t forget to give the interviewee the space to ask us as many as wants!!! 
    
-   **IN** In order to set up a connection between all the Histories we set up a pull of opening questions we ask you to follow: 
    
+   ### **OPENING**
+  
+  In order to set up a connection between all the Histories we establish a basic opening we ask you to follow: 
+      
    * Who you are? 
    * What do you do? 
    * What cause/s are you pursuing?  
    
    
- ### **B) BODY:** 
+ ### ** BODY:** 
 
 We believe on the contribution of new ideas and the freedom of creativity from each one of our collaborators.
 Therefore, the following questions can also be taken as examples, also the flow of the interview can be freely modified.
@@ -65,13 +69,13 @@ _**Know their struggles, defeats and victories**_
    1. Which are the major problems that they identified to achieve their goals and how they overcome them. 
    2. If they put their life in risk doing activism. 
    3. What have been their joys or greatest victories fighting for their cause. 
-   4. What did they learn about how to make impact in benefits of their causes. 
-   5. Which are the key aspects or elements that they put into their advocacy campaigns. 
-   6. What changes have they made in society or are they helping to make (Real Examples). 
+   4. What did they learn about how to make increase the impact of their causes. 
+   5. Which are the key aspects on their advocacy campaigns. 
+   6. Which changes have they made in society or are they willing for (Real Examples). 
 
 _Examples:_
 
-    * What has been the most difficult part in your daily struggle as an activist?
+    * What has been the most difficult part in your daily struggle?
     * Have you ever been in danger?
     * Did you receive a threat for doing what you do? Can you tell us about?
    
@@ -97,7 +101,8 @@ _Examples:_
 
 ## CLOSING
 
-On this last stage our purpose is try to connect the interviewee with our community. There fore we ask you to follow this last 4 questions. 
+On this last stage our purpose is try to connect the interviewee with our community. 
+Therefore we ask you to follow this last 4 questions. 
 
 
     * Do you have some message for the people who wants to participate in activism?
