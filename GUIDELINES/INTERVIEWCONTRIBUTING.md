@@ -1,5 +1,8 @@
 ![captura de pantalla 2018-04-14 a las 5 36 52 p m](https://user-images.githubusercontent.com/32823481/38769888-7f244cea-400a-11e8-80a7-293dc415c086.png) 
 
+See the [example](#example)
+
+
 Hi! :smiley:
 
 If you want to collaborate in Beyond Activismo making interviews, here is a guideline that can help you to make a good one. Please respect the purposes of the Introductory Questions, Questions related to her or his activity and the Closing Questions because we can archieve one of the objectives of Beyond Activismo.
