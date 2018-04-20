@@ -1,8 +1,8 @@
 ## II. Scheme of questions for the interviews to Beyond Activismo:
 
-This schema thinks to work as a guideline and support for all our collaborators to understan BA purpose. 
+This schema thinks to work as a guideline and support for all our collaborators to understand BA purpose. 
 We believe on the contribution of new ideas and the freedom of creativity from each one of our collaborators.
-Therefore, the following questions can also be taken as examples, also the flow of the interview can be freely modified.
+Therefore, the following questions can also be taken as examples, the flow of the interview can be freely modified.
 
 
 **A)Before begining the interview:**
@@ -10,10 +10,10 @@ Therefore, the following questions can also be taken as examples, also the flow 
    * Brief introduction:
    
    **BA:** from our side, it is very important to set up a transparent and trustable enviroment. That is why we recomend to start 
-   wiht an introduction about our purpose and methodologie but most important always give the interviewee 
-   the space to ask us as many as wants. 
+   wiht an introduction about our purpose and methodologies but most important always give the interviewee 
+   the space to ask us as many questions as she/he wants. 
    
-   **IN:** Because our goal is geting to know people it might be helpful to know about their backgrounds
+   **IN:** Because our goal is getting to know people it might be helpful to know about their backgrounds:
    
 
    _Examples:_
