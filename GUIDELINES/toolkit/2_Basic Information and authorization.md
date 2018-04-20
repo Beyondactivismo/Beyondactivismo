@@ -22,3 +22,5 @@ use the interview´s content - text, audio, video or images- on its platform.
 * __in case of protecting hers/his identity__ use thisone 
 
 * __in case of ....__ use thisone 
+
+
