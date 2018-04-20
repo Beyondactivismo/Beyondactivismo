@@ -184,34 +184,35 @@ Examples:
 collaborate in Beyond Activismo?
 
 ## Example
+
+Introduk´ction
 1. In ein paar Sätzen, stelle dich bitte vor und wofür setzt du dich in der Öffentlichkeit ein?
 
+Getting into it
 2.Wie kamst du dazu, dich in der  Öffentlichkeit zu engagieren? Gab es eine spezielle Situation, die dich dazu veranlasst hat? 
-
-3. Wir haben gelesen, dass du eine Verbindung zu Südamerika hat. Das hat uns speziell interessiert, da zurzeit alle, die an unsere Initiative beteiligt sind, aus Südamerika stammen. Worin besteht deine Verbindung zu Südamerika?
  
-4. Wie sind die Sozialhelden entstanden? Welche Hilfe hattet ihr bei der Gründung?
+4. how did your group/collective/ngo started, what help did you recive than from what agents.
 
-5. Wie haben sich die Sozialhelden entwickelt, welche Auswirkungen haben sie auf die Gesellschaft?
+5. How did group/collective/ngo develop. What impact on society do you achieved. 
 
 6. Wie ist die Unterstüzung durch andere zivilgesellschaftliche Organisationen? Hast du auch Kritik an anderen Akteuren?
 
-7. Die Kampagnen an denen du mitgewirkt hast, wie zum Beispiel Wheelmap, haben  große internationale Anklang gefunden. Auf deinen Erfahrungen aufbauend, was braucht es für eine erfolgreiche Kampagne.
+7. Go into a campaing tha the activist did and wich you found interesting
 
-8. Du definierst dich selber als Aktivist. Was heißt das für dich und seit wann definierst du dich so?
-
-9. Was unterscheidet dich von anderen Aktivisten?
+ Do you define yourself as an activist, how do you define activism.
 
 10. Was motiviert dich tagtäglich, für deine Anliegen weiter zu kämpfen?
 
-11. Wie hat sich dein Leben durch deine Aktivität als Aktivist verändert. Was sind positive, was sind negative Momente?
+11. Wie hat sich dein Leben durch deine Aktivität als Aktivist verändert. Talk about postive and negative changes.
 
-´
 12. Wurdest du schon mal wehen deiner Tätigkeit als Aktivist bedroht? Was ist das schwierigste an einem Leben als Aktivist?
 
-13. Eine Nachricht an alle, die sich für Menschenrechte auf dieser Welt einsetzen? 
+Could you share an experience, a piece of advise for people who think about becoming agents of change in their communities?
+
+Ending the interview
  
 14. Würdest du uns einen Aktivisten empfehlen, den wir interviewen könnten? Was wolltest du ihn schon immer fragen?
-
+Did you like the interview? Do you have feedback? 
+Explain that you will share the interview with your interviewee before publishing, to give him the posibility of correcting editorial mistakes.  
 
 
