@@ -1,9 +1,11 @@
 
 # What for?
 
-**1.2. basic reading sheet of what we consider contributors should read before interviewing an Activist.**
+Set of videos/animations. It has to be short and interactive. 
+
+**1.Basic thinks we consider contributors should know before interviewing an Activist.**
+
 _For everybody who wants to upload “stories” on our page._
-_(see if we can do it in an interactive/merge way for different ‘lebels’ of experience, E.g BBC cooking manual )_
 
 * Defenitions
   * Activism 
@@ -12,8 +14,11 @@ _(see if we can do it in an interactive/merge way for different ‘lebels’ of 
   * Some software? 
   
   
-**1.Basic interviewing tools. How to approach people in a respectful way. How to result with high level information.**
+**2.Basic interviewing tools. How to approach people in a respectful way. How to result with high level information.**
+
 _(People who does not have previous knowledge about journalism activities.)_
+_(see if we can do it in an interactive/merge way for different ‘lebels’ of experience, E.g BBC cooking manual )_
+
 * Setting 
 * Actitud- Behaivor 
 * Tips to contact people and get the interview _(maybe this could be a separated sheet)_ 
@@ -23,3 +28,4 @@ _(People who does not have previous knowledge about journalism activities.)_
 
 
 
+After these videos we can put a big downloading box for the TOOLKIT. 
