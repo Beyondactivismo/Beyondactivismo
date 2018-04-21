@@ -56,7 +56,8 @@ in a creative and attractive way. Because of the importance of the interviews we
 It is also important to say, that the improvement of the storytelling of the content of the interviews is strongly related to the achievment of our goals, so is something that we need to have always in mind when we upload the interviews.
 
 **2. Open Platform**: As a project based on internet that has the need to expand arround the world to commite its goals,
-we are working in a open platform that has in mind the following principles:
+we are working in a open platform that has in mind three principles [Openness, Descentralization and Digital Inclusion](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/PRINCIPLES.md).
+
 
 a) Opennes: Our project is thought as a open network of collaborators where they can work, give ideas, make improvements, take decisions, and so on. 
 That is why we are working with open repositories where among other things our community can:
