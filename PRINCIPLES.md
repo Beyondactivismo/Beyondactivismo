@@ -2,7 +2,7 @@
 
 # Principles from Beyond Activismo
 
-The three principles that we have in mind and that are related to our objectives of being an open project that can remain in time are: 
+This three principles are our basis for achieving a project that is sustainable over time and that allows us to help contribute to a free and secure Internet for all those who want to be part of it.
 
 a) Opennes: Our project is thought as a open network of collaborators where they can work, give ideas, make improvements, take decisions, and so on. 
 That is why we are working with open repositories where among other things our community can:
