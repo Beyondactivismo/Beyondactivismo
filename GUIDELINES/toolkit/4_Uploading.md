@@ -3,7 +3,7 @@
 
 It hast to be an easy way to upload the material. It would be nice to programe interactive boxes for uploading spaces 
 on the webpage. I think we can have at the end of the toolkit something that indicates short and quick that all the informatio  to uploading the data is on the webpage. 
-So that the collaborators are **sitting in front of the computer with their files ready and the instructions on how to upload them at the same time. 
+So that the collaborators are **sitting in front of the computer with their files ready and the instructions on how to upload them at the same time.** 
 
 e.g: we could ask all formats separetly, so we can not just have the same order always but the material already pre-organized before work it out. 
 
