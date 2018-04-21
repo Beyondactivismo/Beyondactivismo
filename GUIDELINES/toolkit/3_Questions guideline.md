@@ -3,8 +3,7 @@
 This scheme works as a guideline and support for all our collaborators to understan BA purpose. 
 
 
-### **INTRODUCTION:**
-   
+### INTRODUCTION
    
    From our side, it is very important to set up a transparent and trustable enviroment.
    That is why we recomend to start wiht an introduction about our methodologie:
@@ -21,7 +20,7 @@ This scheme works as a guideline and support for all our collaborators to unders
                   Don´t forget to give the interviewee the space to ask us as many as wants!!! 
    
    
-   ### **OPENING**
+### OPENING
   
   In order to set up a connection between all the Histories we establish a basic opening we ask you to follow: 
       
@@ -30,12 +29,12 @@ This scheme works as a guideline and support for all our collaborators to unders
    * What cause/s are you pursuing?  
    
    
- ### ** BODY:** 
+### BODY 
 
-We believe on the contribution of new ideas and the freedom of creativity from each one of our collaborators.
-Therefore, the following questions can also be taken as examples, also the flow of the interview can be freely modified.
-The focus of this part is on her/his activity. As our main goal is to build a community based on trustable information
-about activist we need to be able to comprehend:
+   We believe on the contribution of new ideas and the freedom of creativity from each one of our collaborators.
+   Therefore, the following questions can also be taken as examples, also the flow of the interview can be freely modified.
+   The focus of this part is on her/his activity. As our main goal is to build a community based on trustable information
+   about activist we need to be able to comprehend:
 
  _**How they see Activism**_
    
@@ -96,17 +95,16 @@ _Examples:_
     * How do you do to keep your supporters?
     * How is the collaboration and help from other civil society organizations?
     * How you do it to attract people to collaborate with you?
-    * Do you have positive and negative comments about the cooperation between different human rights organizations in your field?
+    * Do you have positive and negative comments about the cooperation between different human rights organizations in your        field?
 
 
 ## CLOSING
 
 On this last stage our purpose is try to connect the interviewee with our community. 
-Therefore we ask you to follow this last 4 questions. 
-
 
     * Do you have some message for the people who wants to participate in activism?
     * How can our readers get in contact, support or collaborate with you?
     * To what authority would you send a message and what would it be? 
-    * Which activist would you recommend for the next interview? Is there anything you always wanted to know about her/him? 
+    * Which activist would you recommend for the next interview? Is there anything you always wanted to know about
+    her/him? 
 
