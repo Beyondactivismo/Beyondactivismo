@@ -19,7 +19,7 @@ _For everybody who wants to upload “stories” on our page._
 **2.Tips to contact potential interviewee**
 
 * BA pitch. 
-* Basic tips on how to aproach people. Waiting time before re-writing to somebody. 
+* Basic tips on how to aproach people. Waiting time, before re-writing to somebody. 
   
 **3.Basic interviewing tools. How to approach people in a respectful way. How to result with high level information.**
 
