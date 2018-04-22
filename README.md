@@ -1,7 +1,6 @@
 ![captura de pantalla 2018-04-14 a las 5 36 52 p m](https://user-images.githubusercontent.com/32823481/38769888-7f244cea-400a-11e8-80a7-293dc415c086.png)  
-_Trying to understand people from different cultures, religions and countries have in common through their activism, is an amazing but difficult task._
-_With that in mind, we are working on an open project that tries
-to connect and share the histories & experiences of human rights activists, in an attractive and creative way._
+_Trying to understand people from different cultures, religions, and countries have in common through their activism and explore how can they help each other, is an amazing but difficult task. With that in mind we are working on an open project that tries
+to connect and share the histories & experiences of human rights activists, in attractive and creatives ways delivering the content in different languages._
 
 # Welcome
 
@@ -22,10 +21,12 @@ If you want you can jump straight to one of the sections below, or just scroll d
 
 ### What are we doing?
 
-We are addressing the following problems:
+We are working in an open project that tries to connect and share the histories & experiences of human rights activists, in attractive and creatives ways delivering the content in different languages.
+
+The problems that we want to solve are the following:
 
 1. When human rights topics are discussed in the news, often activists lack attention. Even if their struggles get worldwide attention, _they_ often
-are unknown, their motives, strategies and experiences are lost.
+are not visible, their motives, strategies and experiences are lost.
 2. Human rights activists around the world don’t have an easy tool for connecting with each other, and it is important that they can share their
 experiences to empower others.
 3. Collecting and distributing information is too big a task for only a couple of people.
