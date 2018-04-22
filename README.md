@@ -96,10 +96,10 @@ PGP Fingerprint --> 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72
 
 ### License
 
-The non Code content is under the following license:
-Creative Commons Attribution 4.0  
-This License permits almost any use subject to providing credit and license notice.   
-[Link of the License `CC-BY-4.0`](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
+The non Code content is under the following license:  
+[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt)  
+ <img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/3.0/88x31.png" /></a>  
+ This License permits almost any use subject to providing credit and license notice.
 
 [link_Publickey]: https://pgp.mit.edu/pks/lookup?op=get&search=0x867F4D89D61F8F72
 [link_Twitter]: https://twitter.com/beyondactivismo
