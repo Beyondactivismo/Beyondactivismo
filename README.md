@@ -59,22 +59,6 @@ It is also important to say, that the improvement of the storytelling of the con
 **2. Open Platform**: As a project based on internet that has the need to expand arround the world to commite its goals,
 we are working in a open platform that has in mind three principles [Openness, Descentralization and Digital Inclusion](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/PRINCIPLES.md).
 
-
-a) Opennes: Our project is thought as a open network of collaborators where they can work, give ideas, make improvements, take decisions, and so on. 
-That is why we are working with open repositories where among other things our community can:
-
-- promote ideas, projects, activist to interview, etc.  
-- design and improvement of our website
-- create, improve and distribute content (for example, submitt written interviews, documentary films, photographys, animations, etc) 
-- create, improve and use toolkits (to facilitate the production of content about human rights activists, we are creating tools and templates to ease and standardize workflows in a safe multilingual platform, because we believe that using the internet to create a safe and healthy space, we can break different physical and non physical borders to allow everyone to benefit from this project)
-- translate the content uploade by the community
-- promote the re-utilization of content (BA works with Licenses where the only restriction is the recognition of authorship of the works)
-
-b) Decentralization: Our project is thought as a global community of passionate Internet users who share our vision. They can work in our platform where we are going to use open standards to facilitate the interoperability. 
-
-c) Digital Inclusion: We believe in a place where everybody can participate without threats to our or others reputation, confidence, or safety. Beyond Activismo is aim to be a platform where we promote and expect diversity and respect. If we could achieve to everyone is because we are achieving our goal.
-
-
 **3. Community**: To achieve our goals we need to build a community of collaborators, readers, activists, sharers and so on to benefit the project from their different skills. As we said before it is a project thought as a open, decentralized and inclusive global community, that is why without a strong community this project will be never succeed. 
 
 ### Why it is exciting to take part in Beyond Activismo?
