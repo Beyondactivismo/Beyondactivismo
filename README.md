@@ -45,7 +45,7 @@ We are planning to achive this problems basically through three mechanisms that 
 
 **1. Interviews**: We see the interviews are a way to connect. 
 That is why we strongly believe that we need to know and share the histories and experiences of human rights activists
-in a creative and attractive way. Because of the importance of the interviews we have always to keep on mind their purposes, which are know about:
+in a creative and attractive way. Because of the importance of the interviews we have always to keep on mind their purposes, which are:
 
 - the background of the activists
 - about their motivations
