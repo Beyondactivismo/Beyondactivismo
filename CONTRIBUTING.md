@@ -9,12 +9,23 @@ _Trying to understand people from different cultures, religions and countries ha
 Hi! Thank you very much to be interested in collaborated with us!   
 We are very happy that you are here and we hope you enjoy staying with us! 😃 
 
+If you want you can jump straight to one of the sections below, or just scroll down to find out more 😃
+
+* [Code of Conduct](#code-of-conduct-)
+* [How to Contribute](#how-to-contribute)
+- * [1) Web Developers Contributions](#1-web-developers-contributions)
+- * [2) Content Contributions](#2-content-contributions)
+- * [3) Art or Design contributions](#3-art-or-design-contributions)
+- * [4) Feedback Contributions](#4-feedback-contributions)
+- * [5) Other ways to Contribute](#5-other-ways-to-contribute)
+* [COMMUNICATION CHANELS](#communication-chanels)
+
 ### **CODE OF CONDUCT** 📚 
 
 Before you read how can you get involved with Beyond Activismo, you must read our [Code of Conduct](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/CODE_OF_CONDUCT.md). For us it is very important that every collaborator should know which are our values.
 
 
-### **CONTRIBUTING** 
+### **HOW TO CONTRIBUTE** 
 
 For us is very important your contribution, so if you are wondering _How can I get involved?_ here is the answer. 
 
@@ -60,7 +71,7 @@ If you know an activist and you would like to make an interview please:
 3) Propose a approximate deadline doing a [milestone](https://github.com/Beyondactivismo/Beyondactivismo/milestones/new).
 
 **Suggest an Interview for an Activist:** 
-Do you know an activist and you want us to interview him? Please let us know [here]()! 😃 
+Do you know an activist and you want us to interview him? Please let us know [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)! 😃 
 
 #### _**3) Art or Design contributions:**_
 We really need people that help us in the way we give the content to our community and viewers that is why you can help us in the following tasks:
@@ -79,11 +90,13 @@ Your feedback is always important that is why we need to hear it, take notes and
 Your opinion is fundamental for us, please let us know what you think about our project [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43) 
 
 #### _**5) Other ways to Contribute:**_ 
+There are many ways to contribute, 
 
 **Fundaraising Expertise** 
 
 **Spread the voice**
 
+**If you have an idea to help us please share that with as suggesting your way to help us [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)**
 
 
 ### **COMMUNICATION CHANELS**
