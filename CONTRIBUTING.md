@@ -13,12 +13,18 @@ If you want you can jump straight to one of the sections below, or just scroll d
 
 * [Code of Conduct](#code-of-conduct-)
 * [How to Contribute](#how-to-contribute)
-- * [1) Web Developers Contributions](#1-web-developers-contributions)
-- * [2) Content Contributions](#2-content-contributions)
-- * [3) Art or Design contributions](#3-art-or-design-contributions)
-- * [4) Feedback Contributions](#4-feedback-contributions)
-- * [5) Other ways to Contribute](#5-other-ways-to-contribute)
-* [COMMUNICATION CHANELS](#communication-chanels)
+
+  [1) Web Developers Contributions](#1-web-developers-contributions)
+  
+  [2) Content Contributions](#2-content-contributions)
+  
+  [3) Art or Design contributions](#3-art-or-design-contributions)
+  
+  [4) Feedback Contributions](#4-feedback-contributions)
+  
+  [5) Other ways to Contribute](#5-other-ways-to-contribute)
+ 
+*[COMMUNICATION CHANELS](#communication-chanels)
 
 ### **CODE OF CONDUCT** 📚 
 
@@ -61,8 +67,9 @@ If you want to help us doing the improvement please make an [Issue](https://gith
 **Translations:** 
 Do you want to translate our content in other languages? Please help us to make the language not an obstacle anymore 😃 💪 💪  
 
--Web Content: If you want to help us to translate the website text or our writing interviews here can you see how to do it. 
--Text in the video and slides: If you want to help us to translate the text in the video and slides to another language here can you see how to do it.
+**Web Content:** If you want to help us to translate the website text or our writing interviews here can you see how to do it. 
+
+**Text in the video and slides:** If you want to help us to translate the text in the video and slides to another language here can you see how to do it.
 
 **Do an Interview to an Activist:**
 If you know an activist and you would like to make an interview please:
@@ -84,13 +91,13 @@ We really need people that help us in the way we give the content to our communi
 As you could see we have prepare some audiovisual material for you. If you want to help us improving it please make an Issue put the Labels Mozsprint and 2018.
 
 #### _**4) Feedback Contributions:**_ 
-Your feedback is always important that is why we need to hear it, take notes and improve🤓 
+Your feedback is always important that is why we need to hear it, take notes and improve 🤓 
 
 **Suggestions, comments and critics to our project:** 
 Your opinion is fundamental for us, please let us know what you think about our project [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43) 
 
 #### _**5) Other ways to Contribute:**_ 
-There are many ways to contribute, 
+There are many ways to contribute: 
 
 **Fundaraising Expertise** 
 
