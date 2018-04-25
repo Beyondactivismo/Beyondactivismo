@@ -88,11 +88,12 @@ Your opinion is fundamental for us, please let us know what you think about our 
 
 ### **COMMUNICATION CHANELS**
 During the Mozilla Global Sprint you can reach us here:
-Twitter: [@beyondactivismo](https://twitter.com/beyondactivismo) 
-Github:  @beyondactivismo
-Gitter:  Chat with us [here](https://gitter.im/Beyond-Activismo/BA-Mozsprint2018?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+  
+Twitter: [@beyondactivismo](https://twitter.com/beyondactivismo)   
+Github:  @beyondactivismo  
+Gitter:  Chat with us [here](https://gitter.im/Beyond-Activismo/BA-Mozsprint2018?utm_source=share-link&utm_medium=link&utm_campaign=share-link)  
 
-E-mail: contact@beyondactivismo.org / PGP Fingerprint 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72   
+E-mail: contact@beyondactivismo.org / PGP Fingerprint 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72     
 [Public Key][https://pgp.mit.edu/pks/lookup?op=get&search=0x867F4D89D61F8F72] 
 
 
