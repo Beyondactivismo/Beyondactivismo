@@ -6,7 +6,8 @@ _Trying to understand people from different cultures, religions and countries ha
 
 ## **WELCOME!!** 🎉 🎉 
 
-Hi! Thank you very much to be interested in collaborated with us! We are very happy that you are here we hope you stay! 😃 
+Hi! Thank you very much to be interested in collaborated with us!   
+We are very happy that you are here and we hope you enjoy staying with us! 😃 
 
 ### **CODE OF CONDUCT** 📚 
 
@@ -17,49 +18,49 @@ Before you read how can you get involved with Beyond Activismo, you must read ou
 
 For us is very important your contribution, so if you are wondering _How can I get involved?_ here is the answer. 
 
-We need help in many things and you can help us in many ways aswell from suggesting changes to take action and put your hands direct in what we are working on. 
+We need help in many things and you can help us in many ways aswell, from suggesting changes to take action and put your hands direct in what we are working on. 
 
-If you want to go direct to the sections of task you can go clicking [here](https://github.com/Beyondactivismo/Beyondactivismo/projects/7).
-
-#### _**1) Web Developers Contributions:**_
+#### _**1) Web Developers Contributions:**_  
 We are working in a Wordpress Multisite because we want to upload the content in different languages that is why we have different subdomains. Our problem is that we lack of experience and knowledge in Web development that is why we need:
 
-- **Ideas or Solutions to work open with Wordpress:** 
-People that could give to us ideas or solutions to work open with Wordpress.
-To give your ideas and propose solutions you can post a comment here.
-If you want to help us implementing a solution please make an Issue here and the Labels Mozsprint and 2018 on it.
+ **Ideas or Solutions to work open with Wordpress:**   
+We need ideas or solutions to work open with Wordpress. We want that our Github repositories can be easily upload in our website.  
 
-- **Ideas or Improvements (Design or Programming) in our Wordpress Theme**
-You can find our Theme in this file and you can see how it looks in our website. Now we have been only working in the prototype of the English version of our project. 
-To give your ideas and propose improvements you can post a comment here.
-If you want to help us doing the improvement please make an Issue here and the Labels Mozsprint and 2018 on it.
+- To give your ideas and propose solutions you can post a comment [here.](https://github.com/Beyondactivismo/Beyondactivismo/issues/34)
 
-- **Ideas or Solutions to have secure submission zone**
+- If you want to help us implementing a solution please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new) and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
+
+**Ideas or Improvements (Design or Programming) in our Wordpress Theme**  
+You can find our Theme in this file and you can see how it looks in our website. Now we have been only working in the prototype of the English version of our project.   
+- To give your ideas and propose improvements you can post a comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/37).  
+- If you want to help us doing the improvement please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  here and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
+
+**Ideas or Solutions to have a secure submission zone**
 We need to receive and review the content that our contributors send to us. That is why we need to implement a submission zone in our web page where they can upload from small to large files in a secure way. 
-To give your ideas and propose solutions you can post a comment here.
-If you want to help us implementing a solution please make an Issue here and the Labels Mozsprint and 2018 on it.
+To give your ideas and propose solutions you can post a comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/36).
+If you want to help us implementing a solution please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  here and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
 
 **Ideas or Solution to implement a Safe donation method in our Website**
 .............................
-To give your ideas and propose improvements you can post a comment here.
-If you want to help us doing the improvement please make an Issue here and the Labels Mozsprint and 2018 on it.
+To give your ideas and propose improvements you can post a comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/35).
+If you want to help us doing the improvement please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
 
-#### _**2) Feedback Contributions:**_ 
-Your feedback is always important that is why we need to hear it.
+#### _**2) Content Contributions:**_
 
-- **Suggestions, comments and critics to our project:** 
-Your opinion is fundamental for us, please give it to us! 
+**Translations:** 
+Do you want to translate our content in other languages? Please help us to make the language not an obstacle anymore 😃 💪 💪  
 
-_**3) Content Contributions:**_
+-Web Content: If you want to help us to translate the website text or our writing interviews here can you see how to do it. 
+-Text in the video and slides: If you want to help us to translate the text in the video and slides to another language here can you see how to do it.
 
-- **Translate:** 
-Do you want to translate our content in other languages? Please help us! In that way the language will not be an obstacle anymore 😃 💪 💪  
+**Do an Interview to an Activist:**
+If you know an activist and you would like to make an interview please:
+1) Read our [Contributing Guideline for Interviewers](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/GUIDELINES/INTERVIEWCONTRIBUTING.md)
+2) Make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  and apply the following labels ![captura de pantalla 2018-04-25 a las 11 09 33 a m](https://user-images.githubusercontent.com/32823481/39236540-5bf9ec58-4879-11e8-89d5-e5496bef2707.png) 
+3) Propose a approximate deadline doing a [milestone](https://github.com/Beyondactivismo/Beyondactivismo/milestones/new).
 
-- **Do an Interview to an Activist:**
-If you know an activist and you would like to make an interview please read our [Contributing Guideline for Interviewers](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/GUIDELINES/INTERVIEWCONTRIBUTING.md)and do do it.
-
-- **Suggest an Interview for an Activist:** 
-Do you know an activist and you want us to interview him? Please let us know! 😃 
+**Suggest an Interview for an Activist:** 
+Do you know an activist and you want us to interview him? Please let us know [here]()! 😃 
 
 #### _**3) Art or Design contributions:**_
 We really need people that help us in the way we give the content to our community and viewers that is why you can help us in the following tasks:
@@ -71,12 +72,17 @@ We really need people that help us in the way we give the content to our communi
 **Improve our graphics and animations**
 As you could see we have prepare some audiovisual material for you. If you want to help us improving it please make an Issue put the Labels Mozsprint and 2018.
 
-#### 4) Other ways of Contributing 
+#### _**4) Feedback Contributions:**_ 
+Your feedback is always important that is why we need to hear it, take notes and improve🤓 
 
-**Fundaraising Knowledge 
+**Suggestions, comments and critics to our project:** 
+Your opinion is fundamental for us, please let us know what you think about our project [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43) 
 
-**Spread the voice
+#### _**5) Other ways to Contribute:**_ 
 
+**Fundaraising Expertise** 
+
+**Spread the voice**
 
 
 
