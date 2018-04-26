@@ -1,12 +1,11 @@
 ![captura de pantalla 2018-04-14 a las 5 36 52 p m](https://user-images.githubusercontent.com/32823481/38769888-7f244cea-400a-11e8-80a7-293dc415c086.png)  
-_Trying to understand people from different cultures, religions, and countries have in common through their activism and explore how can they help each other, is an amazing but difficult task. With that in mind we are working on an open project that tries
-to connect and share the histories & experiences of human rights activists, in attractive and creatives ways delivering the content in different languages._
+_Trying to understand what people from different cultures, religions, and countries have in common through their activism, and exploring how can they help each other, is an amazing but difficult task. With that in mind we are working on an open project that tries to connect and share the histories & experiences of human rights activists, delivering the content in different languages, in attractive and creative ways._
 
 # Welcome
 
 Hi! Welcome to Beyond Activismo!
 
-Thank you very much  for visiting us, we are very happy to share information about the project, and also to have the possibility of inviting you to be part of this community.
+Thank you very much  for visiting us, we are very happy to share information about the project, and to have the possibility of inviting you to be part of this community.
 
 If you want you can jump straight to one of the sections below, or just scroll down to find out more :smiley: 
 
@@ -14,64 +13,59 @@ If you want you can jump straight to one of the sections below, or just scroll d
 * [What is our solution?](#what-is-our-solution)
 * [How do we plan to achieve this?](#how-do-we-plan-to-achieve-this)
 * [Why it is exciting to take part in Beyond Activismo?](#why-it-is-exciting-to-take-part-in-beyond-activismo)
-* [Get involve?](#get-involve)
+* [Get involved?](#get-involve)
 * [Follow us and Chat with us](#follow-us-and-chat-with-us)
 * [Many thanks for visiting us!](#many-thanks-for-visiting-us)
 * [Contact us](#contact-us)
 
 ### What are we doing?
 
-We are working in an open project that tries to connect and share the histories & experiences of human rights activists, in attractive and creatives ways delivering the content in different languages.
+We are working in an open project that tries to connect and share the histories & experiences of human rights activists, delivering the content in different languages, in attractive and creative ways.
 
 The problems that we want to solve are the following:
 
-1. When human rights topics are discussed in the news, often activists lack attention. Even if their struggles get worldwide attention, _they_ often
-are not visible, their motives, strategies and experiences are lost.
-2. Human rights activists around the world don’t have an easy tool for connecting with each other, and it is important that they can share their
-experiences to empower others.
+1. When human rights topics are discussed in the news, often activists lack attention. Even if their struggles get worldwide attention, _they_ often are not visible, their motives, strategies and experiences are lost.
+2. Human rights activists around the world don’t have an easy tool for connecting with each other, and it is important that they can share their experiences to empower others.
 3. Collecting and distributing information is too big a task for only a couple of people.
 
 ### What is our solution?
 With those problems as a starting point, we came up with an idea for a safe multilingual platform, that works as an open collaboration network between different people around the world. 
 
-Here, on the one hand we can share verified human rights
-activist’s experiences and histories in an attractive and creative way, documented by the BA Community. 
+Here, on the one hand we can share verified human rights activists’ experiences and histories in an attractive and creative way, documented by the BA Community. 
 
 On the other hand, human rights activists can inspire, interact, collaborate and support each other.
 
 ### How do we plan to achieve this?
 
-We are planning to achive this problems basically through three mechanisms that converge::
+We are planning to tackle these problems basically through three mechanisms that converge::
 
-**1. Interviews**: We see the interviews are a way to connect. 
+**1. Interviews**: We see interviews as a way to connect. 
 That is why we strongly believe that we need to know and share the histories and experiences of human rights activists
-in a creative and attractive way. Because of the importance of the interviews we have always to keep on mind their purposes, which are:
+in a creative and attractive way. Because of the importance of the interviews we always have to keep their purpose in mind, which includes:
 
 - the background of the activists
 - about their motivations
-- her/is way to think and do activist
+- their way to think about and do activism
 - their experiences doing activism and recommendations
 - their support doing activism
-- to connect the activists with our lectors, community and future interest collaborators and activists.
+- to connect the activists with our readers, community and future interested collaborators and activists.
 
-It is also important to say, that the improvement of the storytelling of the content of the interviews is strongly related to the achievment of our goals, so is something that we need to have always in mind when we upload the interviews.
+It is also important to say, that improving the storytelling of the content of the interviews is strongly related to the achievment of our goals, so is something that we need to always have in mind when we upload the interviews.
 
-**2. Open Platform**: As a project based on internet that has the need to expand arround the world to commite its goals,
-we are working in a open platform that has in mind three principles [Openness, Descentralization and Digital Inclusion](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/PRINCIPLES.md).
+**2. Open Platform**: As a project based on the internet that has the need to expand around the world to meet its goals, we are working on a open platform that has three core principles: [Openness, Decentralization and Digital Inclusion](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/PRINCIPLES.md).
 
-**3. Community**: To achieve our goals we need to build a community of collaborators, readers, activists, sharers and so on to benefit the project from their different skills. As we said before it is a project thought as a open, decentralized and inclusive global community, that is why without a strong community this project will be never succeed. 
+**3. Community**: To achieve our goals we need to build a community of collaborators, readers, activists, sharers and so on - their different skills all benefit the project. As we said before it is a project coceived as an open, decentralized and inclusive global community... without a strong community this project will never succeed. 
 
 ### Why it is exciting to take part in Beyond Activismo?
 Beyond Activismo is exciting because it aims to be a global, open community of collaborators willing to share and create content about the experiences and histories of human rights activists.
 
-Being part of Beyond Activismo is a way to make a change, inspire others, and co-work with diversely-skilled people around the world who want to spread the word, and help others to find solutions, inspiration and
-friends along the way.
+Being part of Beyond Activismo is a way to make a change, inspire others, and co-work with diversely-skilled people around the world who want to spread the word, and help others to find solutions, inspiration and friends along the way.
 
-### Get involve?
+### Get involved?
 
 Everybody can be involved in Beyond Activismo and there are multiple ways to do it. 
 
-You can read this Contributing Guidelines and find a role that matches your capabilities or your availability.  
+You can read our [Contributing Guidelines](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/CONTRIBUTING.md)  and find a role that matches your capabilities or your availability.  
 
 ### MozSprint
 
