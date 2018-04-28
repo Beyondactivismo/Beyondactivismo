@@ -20,7 +20,7 @@ If you want you can jump straight to one of the sections below, or just scroll d
 
   [3) Art or Design contributions](#3-art-or-design-contributions)
 
-  [4) Feedback Contributions](#4-feedback-contributions)
+  [4) Feedback](#4-feedback)
 
   [5) Other ways to Contribute](#5-other-ways-to-contribute)
 
@@ -90,7 +90,7 @@ We really need people that help us in the way we give the content to our communi
 **Improve our graphics and animations**
 As you could see we have prepare some audiovisual material for you. If you want to help us improving it please make an Issue put the Labels Mozsprint and 2018.
 
-#### _**4) Feedback Contributions:**_
+#### _**4) Feedback**_
 Your feedback is always important that is why we need to hear it, take notes and improve 🤓
 
 **Suggestions, comments and critics to our project:**
