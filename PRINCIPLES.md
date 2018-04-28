@@ -26,7 +26,6 @@ _Our content as well as our community building effort targets non-english speaki
 _BA works with Licenses that allow anyone to share and adapt our content (CC BY 4.0 for content/ MIT for code)_
 
 __b) Decentralization:__  
-
 Our project is thought as a global community of passionate Internet users who share our vision. They can work in our platform where we are going to use open standards to facilitate the interoperability. 
 
 __c) Digital Inclusion:__  
