@@ -99,14 +99,14 @@ Your opinion is fundamental for us, please let us know what you think about our 
 #### _**5) Other ways to Contribute:**_
 There are many ways to contribute:
 
-**Fundaraising Expertise**
+**Fundraising Expertise**
 
 **Spread the voice**
 
 **If you have an idea to help us please share that with as suggesting your way to help us [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)**
 
 
-### **COMMUNICATION CHANELS**
+### **COMMUNICATION CHANNELS**
 During the Mozilla Global Sprint you can reach us here:
 
 Twitter: [@beyondactivismo](https://twitter.com/beyondactivismo)   
