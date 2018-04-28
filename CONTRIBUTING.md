@@ -24,7 +24,7 @@ If you want you can jump straight to one of the sections below, or just scroll d
 
   [5) Other ways to Contribute](#5-other-ways-to-contribute)
 
-*[COMMUNICATION CHANELS](#communication-chanels)
+* [Communication Channels](#communication-channels)
 
 ### **CODE OF CONDUCT** 📚
 
