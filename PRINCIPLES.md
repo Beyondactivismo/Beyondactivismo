@@ -29,4 +29,4 @@ __b) Decentralization:__
 Our project is thought as a global community of passionate Internet users who share our vision. They can work in our platform where we are going to use open standards to facilitate the interoperability. 
 
 __c) Digital Inclusion:__  
-Beyond Activismo is a platform that promotes diversity and respect. We strongly believe that only by bringing different perspectives and experiences we'll be able to achieve our goals. To crate a safe and accessible collaboration platform is at the core of our development.  
+Beyond Activismo is a platform that promotes diversity and respect. We strongly believe that only by bringing different perspectives and experiences we'll be able to achieve our goals. To create a safe and accessible collaboration platform is at the core of our development.  
