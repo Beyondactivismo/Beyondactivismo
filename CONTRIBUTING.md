@@ -58,7 +58,7 @@ To give your ideas and propose solutions you can post a comment [here](https://g
 If you want to help us implementing a solution please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  here and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
 
 **Ideas or Solution to implement a Safe donation method in our Website**
-.............................
+We are thinking in different ways to get support to keep improving our project. That is why we think in this option and we want to here about your opinion, experience and everything you have to say about it, and also if you want to help us to implement this in our web site.
 To give your ideas and propose improvements you can post a comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/35).
 If you want to help us doing the improvement please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
 
@@ -67,9 +67,12 @@ If you want to help us doing the improvement please make an [Issue](https://gith
 **Translations:**
 Do you want to translate our content in other languages? Please help us to make the language not an obstacle anymore 😃 💪 💪  
 
-**Web Content:** If you want to help us to translate the website text or our writing interviews here can you see how to do it.
+**a) Web Content:** If you want to help us to translate the website text or our writing interviews here you can see how to do it [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/40).
 
-**Text in the video and slides:** If you want to help us to translate the text in the video and slides to another language here can you see how to do it.
+**b) Text in the video and slides:** If you want to help us to translate the text in the video and slides to another language you can see how to do it [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/40). 
+
+**Proposes how we can make improvements in the Storytelling of our written interviews**
+As you can see we already have some writing interviews of activists. The way how can we improve the delivering of that interviews to them can be better! If you know how can you help us please comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/42)
 
 **Do an Interview to an Activist:**
 If you know an activist and you would like to make an interview please:
@@ -77,36 +80,38 @@ If you know an activist and you would like to make an interview please:
 2) Make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  and apply the following labels ![captura de pantalla 2018-04-25 a las 11 09 33 a m](https://user-images.githubusercontent.com/32823481/39236540-5bf9ec58-4879-11e8-89d5-e5496bef2707.png)
 3) Propose a approximate deadline doing a [milestone](https://github.com/Beyondactivismo/Beyondactivismo/milestones/new).
 
-**Suggest an Interview for an Activist:**
+**Suggest an Activist to be Interviewed:**
 Do you know an activist and you want us to interview him? Please let us know [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)! 😃
 
-#### _**3) Art or Design contributions:**_
-We really need people that help us in the way we give the content to our community and viewers that is why you can help us in the following tasks:
+#### _**3) Visual Arts contributions:**_
+We really need people that help us to improve how we deliver the content to our community and viewers that is why you can help us in the following tasks:
 
-**Propose improvements to Storytelling of writing interviews**
+**[Improvements in the Storytelling of our written interviews with Visual Art](https://github.com/Beyondactivismo/Beyondactivismo/issues/52)**  
+As you can see we already have some writing interviews of activists, if you can help us with ideas and collaborating to us of this content in an attractive and creative way we really want to here you, so please visit us [here!](https://github.com/Beyondactivismo/Beyondactivismo/issues/52)
 
-**Propose attractive and creative Storytelling Methods to implement within our community**
+**[Improve our graphics and animations](https://github.com/Beyondactivismo/Beyondactivismo/issues/51)**  
+As you could see we have prepare some audiovisual material for you. If you want to help us improving it please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  here and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
 
-**Improve our graphics and animations**
-As you could see we have prepare some audiovisual material for you. If you want to help us improving it please make an Issue put the Labels Mozsprint and 2018.
-
-#### _**4) Feedback**_
+#### _**4) Feedback**_  
 Your feedback is always important that is why we need to hear it, take notes and improve 🤓
 
-**Suggestions, comments and critics to our project:**
+**Suggestions, comments and critics to our project:**  
 Your opinion is fundamental for us, please let us know what you think about our project [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)
 
 #### _**5) Other ways to Contribute:**_
 There are many ways to contribute:
 
-**Fundaraising Expertise**
+**Fundaraising Expertise**  
+We want to improve but to do so we also need more support. If you can help us with that we are waiting to here from you, please comment in this [Issue!](https://github.com/Beyondactivismo/Beyondactivismo/issues/44)
 
-**Spread the voice**
+**Spread the voice**  
+You can share this post on [Twitter](https://twitter.com/intent/tweet?text=Hi%21%20I%20am%20collaborating%20with%20%40beyondactivismo%20in%20this%20%23Mozsprint2018%20please%20join%20us%20here%20https%3A%2F%2Fgithub.com%2FBeyondactivismo%2FBeyondactivismo%2Fedit%2Fprinciples-corrections%2FCONTRIBUTING.md%21%20&source=webclient)and you are already collaborating with us!
+
 
 **If you have an idea to help us please share that with as suggesting your way to help us [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)**
 
 
-### **COMMUNICATION CHANELS**
+### **COMMUNICATION CHANELS**  
 During the Mozilla Global Sprint you can reach us here:
 
 Twitter: [@beyondactivismo](https://twitter.com/beyondactivismo)   
