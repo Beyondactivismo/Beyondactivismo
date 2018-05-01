@@ -13,7 +13,7 @@ If you want you can jump straight to one of the sections below, or just scroll d
 * [What is our solution?](#what-is-our-solution)
 * [How do we plan to achieve this?](#how-do-we-plan-to-achieve-this)
 * [Why it is exciting to take part in Beyond Activismo?](#why-it-is-exciting-to-take-part-in-beyond-activismo)
-* [Get involved?](#get-involve)
+* [Get involved?](#get-involved)
 * [Follow us and Chat with us](#follow-us-and-chat-with-us)
 * [Many thanks for visiting us!](#many-thanks-for-visiting-us)
 * [Contact us](#contact-us)
@@ -69,7 +69,7 @@ You can read our [Contributing Guidelines](https://github.com/Beyondactivismo/Be
 
 ### MozSprint
 
-Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) May 10-11, 2018! We'll be gathering online to collaborate on this project and learn from each other.
+Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) May 10-11, 2018! We'll be gathering in-person at the [Mozilla Foundation Office in Berlin](https://goo.gl/maps/rLsKu9HrPK82) and online to collaborate and learn from each other. [Get your #mozsprint tickets now!](http://mozilla.github.io/global-sprint/)
 
 ![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
 
