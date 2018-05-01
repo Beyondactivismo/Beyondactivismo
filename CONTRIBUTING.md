@@ -105,7 +105,7 @@ There are many ways to contribute:
 We want to improve but to do so we also need more support. If you can help us with that we are waiting to here from you, please comment in this [Issue!](https://github.com/Beyondactivismo/Beyondactivismo/issues/44)
 
 **Spread the voice**  
-You can share this post on [Twitter](https://twitter.com/intent/tweet?text=Hi%21%20I%20am%20collaborating%20with%20%40beyondactivismo%20in%20this%20%23Mozsprint2018%20please%20join%20us%20here%20https%3A%2F%2Fgithub.com%2FBeyondactivismo%2FBeyondactivismo%2Fedit%2Fprinciples-corrections%2FCONTRIBUTING.md%21%20&source=webclient)and you are already collaborating with us!
+You can share this post on [Twitter](https://twitter.com/intent/tweet?text=Hi%21%20I%20am%20collaborating%20with%20%40beyondactivismo%20in%20this%20%23Mozsprint2018%20please%20join%20us%20here%20https%3A%2F%2Fgithub.com%2FBeyondactivismo%2FBeyondactivismo%2Fedit%2Fprinciples-corrections%2FCONTRIBUTING.md%21%20&source=webclient) and you are already collaborating with us!
 
 
 **If you have an idea to help us please share that with as suggesting your way to help us [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)**
