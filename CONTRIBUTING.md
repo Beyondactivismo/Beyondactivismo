@@ -18,11 +18,13 @@ If you want you can jump straight to one of the sections below, or just scroll d
 
   [2) Content Contributions](#2-content-contributions)
 
-  [3) Art or Design contributions](#3-art-or-design-contributions)
+  [3) Visual Art Contributions](#3-visual-art-contributions)
+  
+  [4) Music Contributions](#4-music-contributions)
 
-  [4) Feedback](#4-feedback)
+  [5) Feedback](#5-feedback)
 
-  [5) Other ways to Contribute](#5-other-ways-to-contribute)
+  [6) Other ways to Contribute](#6-other-ways-to-contribute)
 
 * [Communication Channels](#communication-channels)
 
@@ -79,12 +81,14 @@ If you want to help us to translate the text in the video and slides to another 
 
 
 **[Do an Interview to an Activist](https://github.com/Beyondactivismo/Beyondactivismo/issues/39)**
+  
 If you know an activist and you would like to make an interview please:
 1) Read our [Contributing Guideline for Interviewers](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/GUIDELINES/INTERVIEWCONTRIBUTING.md)
 2) Make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  and apply the following labels ![captura de pantalla 2018-04-25 a las 11 09 33 a m](https://user-images.githubusercontent.com/32823481/39236540-5bf9ec58-4879-11e8-89d5-e5496bef2707.png)
 3) Propose a approximate deadline doing a [milestone](https://github.com/Beyondactivismo/Beyondactivismo/milestones/new).
 
 **[Suggest an Activist to be interviewed](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)**
+  
 Do you know an activist and you want us to interview him? Please let us know [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)! 😃
 
 #### _**3) Visual Art Contributions**_
@@ -99,18 +103,36 @@ The way to do it is simple you just have to make an [Issue](https://github.com/B
   
 As you could see we have prepared some audiovisual material for you. If you want to help us improving it please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  here explaining how you are willing to help us and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
 
-#### _**4) Feedback**_
+#### _**4) Music Contributions**_
+If you are a musician and you work integrating your art with social causes, please let us know if you are interested to collaborate with us in:
+
+**[Musicalize audiovisual campaigns and films.]()**
+
+As you can see the idea is also to work in audiovisual format, in turn, there is a predispocisión to integrate different forms of art to each of the tasks of Beyond Activism. For this reason, the music composition of our audiovisual projects and that of our collaborators is fundamental. 
+
+Therefore, if you are interested in helping us, please write an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new), telling us about yourself and your willingness to collaborate with Beyond Activismo.
+
+#### _**5) Feedback**_
 Your feedback is always important that is why we need to hear it, take notes and improve 🤓
 
-**Suggestions, comments and critics to our project:**
+**[Suggestions, comments and critics to our project]((https://github.com/Beyondactivismo/Beyondactivismo/issues/43)**
+  
 Your opinion is fundamental for us, please let us know what you think about our project [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)
 
-#### _**5) Other ways to Contribute:**_
+#### _**6) Other ways to Contribute:**_
 There are many ways to contribute:
 
-**Fundraising Expertise**
+**[Fundraising Expertise](https://github.com/Beyondactivismo/Beyondactivismo/issues/44)**
+  
+Do you have experience in Fundraising? Please comment on this Issue(https://github.com/Beyondactivismo/Beyondactivismo/issues/44) if you want to help us or if you want to provide us advice to reach the funds that we could need and that we should apply.
 
 **Spread the voice**
+  
+A very easy way to help us is to spread the voice in your social networks.
+Share this [tweet](https://twitter.com/home?status=Hi!%20I%20am%20contributing%20with%20%40beyondactivismo!%20Join%20us%20in%20this%20%23Mozsprint2018%20and%20see%20how%20to%20contribute%20with%20this%20project!%20https%3A//github.com/Beyondactivismo/Beyondactivismo/blob/master/CONTRIBUTING.md) or make your own social network publication to help us.
+You can use our images and gif from [here](https://github.com/Beyondactivismo/Beyondactivismo/tree/master/Logo).
+
+
 
 **If you have an idea to help us please share that with as suggesting your way to help us [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)**
 
