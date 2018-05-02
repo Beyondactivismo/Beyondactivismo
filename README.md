@@ -13,7 +13,9 @@ If you want you can jump straight to one of the sections below, or just scroll d
 * [What is our solution?](#what-is-our-solution)
 * [How do we plan to achieve this?](#how-do-we-plan-to-achieve-this)
 * [Why it is exciting to take part in Beyond Activismo?](#why-it-is-exciting-to-take-part-in-beyond-activismo)
-* [Get involved?](#get-involve)
+* [Get involved?](#get-involved)
+* [Who are behind Beyond Activismo?](#who-are-behind-beyond-activismo)
+* [Mozsprint 2018](#mozsprint-2018)
 * [Follow us and Chat with us](#follow-us-and-chat-with-us)
 * [Many thanks for visiting us!](#many-thanks-for-visiting-us)
 * [Contact us](#contact-us)
@@ -67,7 +69,14 @@ Everybody can be involved in Beyond Activismo and there are multiple ways to do 
 
 You can read our [Contributing Guidelines](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/CONTRIBUTING.md)  and find a role that matches your capabilities or your availability.  
 
-### MozSprint
+
+### Who are behind Beyond Activismo?
+
+If you want to know the people behind Beyond Activismo, we invite you to read about our self and also to introduce yourself [here](). 
+
+
+
+### MozSprint 2018
 
 Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) May 10-11, 2018! We'll be gathering online to collaborate on this project and learn from each other.
 
