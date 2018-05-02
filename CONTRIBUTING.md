@@ -39,7 +39,7 @@ For us is very important your contribution, so if you are wondering _How can I g
 
 We need help in many things and you can help us in many ways aswell, from suggesting changes to take action and put your hands direct in what we are working on.
 
-#### _**1) Web Developers Contributions:**_  
+### _**1) Web Developers Contributions:**_  
 We are working in a Wordpress Multisite because we want to upload the content in different languages that is why we have different subdomains. Our problem is that we lack of experience and knowledge in Web development that is why we need:
 
  **[Ideas or Solutions to work open with Wordpress](https://github.com/Beyondactivismo/Beyondactivismo/issues/34)**   
@@ -68,7 +68,7 @@ To give your ideas and propose improvements you can post a comment [here](https:
 
 If you want to help us doing the improvement please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)  
 
-#### _**2) Content Contributions:**_
+### _**2) Content Contributions:**_
 
 **[Translations](https://github.com/Beyondactivismo/Beyondactivismo/issues/40)**
 Do you want to translate our content in other languages? Please help us to make the language barrier not to be an obstacle to anymore 😃 💪 💪  
@@ -91,7 +91,7 @@ If you know an activist and you would like to make an interview please:
   
 Do you know an activist and you want us to interview him? Please let us know [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)! 😃
 
-#### _**3) Visual Art Contributions**_
+### _**3) Visual Art Contributions**_
 We really need people that help us in to convert our raw material into attractive and creative content. This is one of our most important tasks and we really need enthusiatic and creative people to help us. Now we are looking for help in the following tasks:
 
 **[Improvements in the Storytelling of our written interviews with Visual Art](https://github.com/Beyondactivismo/Beyondactivismo/issues/52)**
@@ -103,7 +103,7 @@ The way to do it is simple you just have to make an [Issue](https://github.com/B
   
 As you could see we have prepared some audiovisual material for you. If you want to help us improving it please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  here explaining how you are willing to help us and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
 
-#### _**4) Music Contributions**_
+### _**4) Music Contributions**_
 If you are a musician and you work integrating your art with social causes, please let us know if you are interested to collaborate with us in:
 
 **[Musicalize audiovisual campaigns and films.]()**
@@ -112,14 +112,14 @@ As you can see the idea is also to work in audiovisual format, in turn, there is
 
 Therefore, if you are interested in helping us, please write an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new), telling us about yourself and your willingness to collaborate with Beyond Activismo.
 
-#### _**5) Feedback**_
+### _**5) Feedback**_
 Your feedback is always important that is why we need to hear it, take notes and improve 🤓
 
 **[Suggestions, comments and critics to our project]((https://github.com/Beyondactivismo/Beyondactivismo/issues/43)**
   
 Your opinion is fundamental for us, please let us know what you think about our project [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)
 
-#### _**6) Other ways to Contribute:**_
+### _**6) Other ways to Contribute:**_
 There are many ways to contribute:
 
 **[Fundraising Expertise](https://github.com/Beyondactivismo/Beyondactivismo/issues/44)**
