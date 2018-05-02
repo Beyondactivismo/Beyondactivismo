@@ -40,55 +40,64 @@ We need help in many things and you can help us in many ways aswell, from sugges
 #### _**1) Web Developers Contributions:**_  
 We are working in a Wordpress Multisite because we want to upload the content in different languages that is why we have different subdomains. Our problem is that we lack of experience and knowledge in Web development that is why we need:
 
- **Ideas or Solutions to work open with Wordpress:**   
+ **[Ideas or Solutions to work open with Wordpress](https://github.com/Beyondactivismo/Beyondactivismo/issues/34)**   
 We need ideas or solutions to work open with Wordpress. We want that our Github repositories can be easily upload in our website.  
 
 - To give your ideas and propose solutions you can post a comment [here.](https://github.com/Beyondactivismo/Beyondactivismo/issues/34)
 
 - If you want to help us implementing a solution please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new) and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
 
-**Ideas or Improvements (Design or Programming) in our Wordpress Theme**  
+**[Ideas or Improvements (Design or Programming) in our Wordpress Theme](https://github.com/Beyondactivismo/Beyondactivismo/issues/37)**  
 You can find our Theme in this file and you can see how it looks in our website. Now we have been only working in the prototype of the English version of our project.   
 - To give your ideas and propose improvements you can post a comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/37).  
-- If you want to help us doing the improvement please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  here and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
+- If you want to help us to do the improvement please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  here and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
 
-**Ideas or Solutions to have a secure submission zone**
+**[Ideas or Solutions to have a secure submission zone](https://github.com/Beyondactivismo/Beyondactivismo/issues/36)**
 We need to receive and review the content that our contributors send to us. That is why we need to implement a submission zone in our web page where they can upload from small to large files in a secure way.
-To give your ideas and propose solutions you can post a comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/36).
-If you want to help us implementing a solution please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  here and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
 
-**Ideas or Solution to implement a Safe donation method in our Website**
-.............................
-To give your ideas and propose improvements you can post a comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/35).
-If you want to help us doing the improvement please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
+To give your ideas and propose solutions you can post a comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/36).  
+
+If you want to help us implementing a solution please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  here and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)  
+
+**[Ideas or Solution to implement a Safe donation method in our Website](https://github.com/Beyondactivismo/Beyondactivismo/issues/35)**
+We are thinking in different ways to get support to keep improving our project. That is why we think in this option and we want to hear about your opinion, experience and everything you have to say about it, and also if you want to help us to implement this in our website.
+
+To give your ideas and propose improvements you can post a comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/35).  
+
+If you want to help us doing the improvement please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)  
 
 #### _**2) Content Contributions:**_
 
-**Translations:**
-Do you want to translate our content in other languages? Please help us to make the language not an obstacle anymore 😃 💪 💪  
+**[Translations](https://github.com/Beyondactivismo/Beyondactivismo/issues/40)**
+Do you want to translate our content in other languages? Please help us to make the language barrier not to be an obstacle to anymore 😃 💪 💪  
 
-**Web Content:** If you want to help us to translate the website text or our writing interviews here can you see how to do it.
+You can help us with:
+**Web Content:** If you want to help us to translate the website text or our writing interviews please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new) where you can tell us the languages and wich specific content do you want to help us to translate. Please apply the following labels to your Issue so is easy to us to answer you  ![captura de pantalla 2018-05-01 a las 8 54 28 p m](https://user-images.githubusercontent.com/32823481/39488249-ebba9470-4d81-11e8-8ee6-f6bf3193a00e.png)
 
-**Text in the video and slides:** If you want to help us to translate the text in the video and slides to another language here can you see how to do it.
+**Text in the video and slides:** 
+If you want to help us to translate the text in the video and slides to another language please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new) where you can write us the languages you want to help us translate. Please apply the following labels to your Issue so is easy to us to answer you  ![captura de pantalla 2018-05-01 a las 8 54 28 p m](https://user-images.githubusercontent.com/32823481/39488249-ebba9470-4d81-11e8-8ee6-f6bf3193a00e.png)
 
-**Do an Interview to an Activist:**
+
+**[Do an Interview to an Activist](https://github.com/Beyondactivismo/Beyondactivismo/issues/39)**
 If you know an activist and you would like to make an interview please:
 1) Read our [Contributing Guideline for Interviewers](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/GUIDELINES/INTERVIEWCONTRIBUTING.md)
 2) Make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  and apply the following labels ![captura de pantalla 2018-04-25 a las 11 09 33 a m](https://user-images.githubusercontent.com/32823481/39236540-5bf9ec58-4879-11e8-89d5-e5496bef2707.png)
 3) Propose a approximate deadline doing a [milestone](https://github.com/Beyondactivismo/Beyondactivismo/milestones/new).
 
-**Suggest an Interview for an Activist:**
+**[Suggest an Activist to be interviewed](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)**
 Do you know an activist and you want us to interview him? Please let us know [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)! 😃
 
-#### _**3) Art or Design contributions:**_
-We really need people that help us in the way we give the content to our community and viewers that is why you can help us in the following tasks:
+#### _**3) Visual Art Contributions**_
+We really need people that help us in to convert our raw material into attractive and creative content. This is one of our most important tasks and we really need enthusiatic and creative people to help us. Now we are looking for help in the following tasks:
 
-**Propose improvements to Storytelling of writing interviews**
+**[Improvements in the Storytelling of our written interviews with Visual Art](https://github.com/Beyondactivismo/Beyondactivismo/issues/52)**
+As you can see we already have some writing interviews with activists, if you can help us with ideas or collaborate to us working on this content to deliver it in a more attractive and creative way please tell us how. 
 
-**Propose attractive and creative Storytelling Methods to implement within our community**
+The way to do it is simple you just have to make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new), explain how you are willing to help us and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
 
-**Improve our graphics and animations**
-As you could see we have prepare some audiovisual material for you. If you want to help us improving it please make an Issue put the Labels Mozsprint and 2018.
+**[Improve our graphics and animations](https://github.com/Beyondactivismo/Beyondactivismo/issues/51)**
+  
+As you could see we have prepared some audiovisual material for you. If you want to help us improving it please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  here explaining how you are willing to help us and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
 
 #### _**4) Feedback**_
 Your feedback is always important that is why we need to hear it, take notes and improve 🤓
