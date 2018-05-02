@@ -78,7 +78,7 @@ If you want to know the people behind Beyond Activismo, we invite you to read ab
 
 ### MozSprint 2018
 
-Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) May 10-11, 2018! We'll be gathering online to collaborate on this project and learn from each other.
+Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) May 10-11, 2018! We'll be gathering in-site in the [Mozilla Office Berlin](https://www.google.com/maps?q=52.4995,13.4493+(Mozilla+Berlin,+Building+3,+3rd+floor,+Schlesische+Stra%C3%9Fe+27,+Berlin,+Germany) and online to collaborate on this project and learn from each other.
 
 ![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
 
