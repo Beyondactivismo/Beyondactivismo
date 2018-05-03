@@ -14,7 +14,8 @@ _(People who does not have previous expiriencess.)_
 _(see if we can do it in an interactive/merge way for different ‘levels’ of experience, E.g BBC cooking manual )_
 
 _( buletpoint  with basic introduction and at the end of each one we can add a Link with extra material) 
-E.g [https://www.circulardesignguide.com/post/embed-feedback]
+
+E.g [from Lay out and organization https://www.circulardesignguide.com/post/embed-feedback]
 
 
 * Setting: take into account the place and how the person will feel. If possible always do it on a place the person proposed. Also take on account your surroundings(noise or wind when recording audio, light for shooting video)
