@@ -1,7 +1,7 @@
 
 Scheme of questions for the interviews to Beyond Activismo:
 
-##1.Find a History 
+## 1.Find a History 
 
   *Who is the person behind it? 
       
@@ -45,36 +45,8 @@ Scheme of questions for the interviews to Beyond Activismo:
 location?
 
 
-
-
-   
-##2.Setting
-
-_(People who does not have previous expiriencess.)_
-
-_(see if we can do it in an interactive/merge way for different ‘levels’ of experience, E.g BBC cooking manual)_
-
-E.g [Of organization](https://www.circulardesignguide.com/post/embed-feedback)
-
-
-
-**Attitude/ Behavior:** be calm and friendly. Respect the time of others. It is not an interview to confront somebody but to understand and lend a voice to them.
-
-**Technical setting:**
-
-   * micro: -What about ambient noise levels? Traffic/machine noise/wind?
--is it a controlled or uncontrolled environment? 
-   * camera:   
-      * check white balance, settings, iris etc.
-        * follow composition guidelines (rule of thirds, headroom, looking space, etc) 
-        * no 'crossing the line'  - imagine the camera is a theatre audience, your subjects are on stage – the camera should stay in the audience and not cross to the other side of the speakers.
-        * camera at eye level (or maybe slightly above) 
-        * subject should look at interviewer, just off camera 
-
-
-                                 Before starting double check everything!!!
                                  
-## Storytelling guideline 
+## 2.Storytelling guideline 
 
 This scheme works as a guideline and support for all our collaborators to understand BA purpose.
 History 
@@ -172,7 +144,7 @@ _Examples:_
     * Do you have positive and negative comments about the cooperation between different human rights organizations in your        field?
 
 
-## CLOSING
+### CLOSING
 
 -On this last stage our purpose is try to connect the Activist with our community.
 
@@ -186,3 +158,30 @@ _Examples:_
 [User-Centred Research Guidelines ](https://www.circulardesignguide.com/post/lead-with-user-centred-research)
 
 [Tool to help you developing quiestions](http://diytoolkit.org/tools/question-ladder/)
+
+
+## 3.Setting
+
+_(People who does not have previous expiriencess.)_
+
+_(see if we can do it in an interactive/merge way for different ‘levels’ of experience, E.g BBC cooking manual)_
+
+E.g [Of organization](https://www.circulardesignguide.com/post/embed-feedback)
+
+
+
+**Attitude/ Behavior:** be calm and friendly. Respect the time of others. It is not an interview to confront somebody but to understand and lend a voice to them.
+
+**Technical setting:**
+
+   * micro: -What about ambient noise levels? Traffic/machine noise/wind?
+-is it a controlled or uncontrolled environment? 
+   * camera:   
+      * check white balance, settings, iris etc.
+        * follow composition guidelines (rule of thirds, headroom, looking space, etc) 
+        * no 'crossing the line'  - imagine the camera is a theatre audience, your subjects are on stage – the camera should stay in the audience and not cross to the other side of the speakers.
+        * camera at eye level (or maybe slightly above) 
+        * subject should look at interviewer, just off camera 
+
+
+                                 Before starting double check everything!!!
