@@ -14,6 +14,7 @@ If you want you can jump straight to one of the sections below, or just scroll d
 * [How do we plan to achieve this?](#how-do-we-plan-to-achieve-this)
 * [Why it is exciting to take part in Beyond Activismo?](#why-it-is-exciting-to-take-part-in-beyond-activismo)
 * [Get involved?](#get-involved)
+
 * [Follow us and Chat with us](#follow-us-and-chat-with-us)
 * [Many thanks for visiting us!](#many-thanks-for-visiting-us)
 * [Contact us](#contact-us)
@@ -67,9 +68,17 @@ Everybody can be involved in Beyond Activismo and there are multiple ways to do 
 
 You can read our [Contributing Guidelines](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/CONTRIBUTING.md)  and find a role that matches your capabilities or your availability.  
 
-### MozSprint
 
-Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) May 10-11, 2018! We'll be gathering in-person at the [Mozilla Foundation Office in Berlin](https://goo.gl/maps/rLsKu9HrPK82) and online to collaborate and learn from each other. [Get your #mozsprint tickets now!](http://mozilla.github.io/global-sprint/)
+### Who are behind Beyond Activismo?
+
+If you want to know the people behind Beyond Activismo, we invite you to read about our self and also to introduce yourself [here](). 
+
+
+
+### MozSprint 2018
+
+Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) May 10-11, 2018! We'll be gathering in-site in the [Mozilla Berlin Office](https://www.google.com/maps?q=52.4995,13.4493+Mozilla+Berlin,+Building+3,+3rd+floor,+Schlesische+Stra%C3%9Fe+27,+Berlin,+Germany) and online to collaborate on this project and learn from each other.
+
 
 ![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
 
