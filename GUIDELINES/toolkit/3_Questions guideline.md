@@ -26,7 +26,8 @@
       
    _How long_ the interview will take. 
       
-                           If you don´t Waiting time before re-writing to somebody
+                  If you don´t recive an answer we encourege you to wait at leas xx before re-writing to the person.
+
 
 **Prepare yourself**  
     
@@ -34,26 +35,15 @@
    
    _2.Person:_ Can we show the person? If not, what chances do we have to represent her/him on the video/photos?
    
-   _3.Photo/Video:_ details or cutaways, to combine them is also an option! 
+   _3.Photo/Video:_ details or cutaways, to combine them is also an option! Is there any atmosphere location near by that can help on the video?  
                  
+   _4.Is there any Material from the person you would like to add?_ (fotos, videos,text...) Take it into account by the moment of writing your script. 
 
-
--what other material (photos, diagrams, screenshots, logos) might be useful/necessary? 
--are there opportunities for filming cutaways and details at, or near, the interview 
-location?
 
 
                                  
 ## 2.Storytelling guideline 
 
-This scheme works as a guideline and support for all our collaborators to understand BA purpose.
-History 
-
-Here are two tools we recomend you if you need help on writing your storyguide
-
-[User-Centred Research Guidelines ](https://www.circulardesignguide.com/post/lead-with-user-centred-research)
-
-[Tool to help you developing quiestions](http://diytoolkit.org/tools/question-ladder/)
 
 ### INTRODUCTION
 
@@ -85,12 +75,16 @@ Here are two tools we recomend you if you need help on writing your storyguide
 
   As we believe on your contribution and creativity, it is important that you fell free to desing you own storytelling. 
   We give you a guideline of the topics we consider you should aproach in order to make a connection between all histories. 
-  
+  Here are two tools that can be helfully by writing your storyguide
+
+  [User-Centred Research Guidelines ](https://www.circulardesignguide.com/post/lead-with-user-centred-research)
+  [Tool to help you developing quiestions](http://diytoolkit.org/tools/question-ladder/)
+
    
  _**1 How they see Activism**_
 
    1. If they consider themselves activists.
-   2. What does it means to be an activist and to do activism to them.
+   2. What does it meansfor them to be an activist and to do activism.
    3. How they define their way to do activism.
 
 _Examples:_
