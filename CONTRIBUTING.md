@@ -57,16 +57,26 @@ You can find our Theme in this file and you can see how it looks in our website.
 **[Ideas or Solutions to have a secure submission zone](https://github.com/Beyondactivismo/Beyondactivismo/issues/36)**
 We need to receive and review the content that our contributors send to us. That is why we need to implement a submission zone in our web page where they can upload from small to large files in a secure way.
 
-To give your ideas and propose solutions you can post a comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/36).  
+
+**Ideas or Solution to implement a Safe donation method in our Website**
+We are thinking in different ways to get support to keep improving our project. That is why we think in this option and we want to here about your opinion, experience and everything you have to say about it, and also if you want to help us to implement this in our web site.
+To give your ideas and propose improvements you can post a comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/35).
+If you want to help us doing the improvement please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)
+
 
 If you want to help us implementing a solution please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  here and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)  
 
 **[Ideas or Solution to implement a Safe donation method in our Website](https://github.com/Beyondactivismo/Beyondactivismo/issues/35)**
 We are thinking in different ways to get support to keep improving our project. That is why we think in this option and we want to hear about your opinion, experience and everything you have to say about it, and also if you want to help us to implement this in our website.
 
-To give your ideas and propose improvements you can post a comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/35).  
 
-If you want to help us doing the improvement please make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  and apply the following labels ![captura de pantalla 2018-04-25 a las 10 09 53 a m](https://user-images.githubusercontent.com/32823481/39233522-de0a7658-4870-11e8-8135-c85390d860a7.png)  
+**a) Web Content:** If you want to help us to translate the website text or our writing interviews here you can see how to do it [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/40).
+
+**b) Text in the video and slides:** If you want to help us to translate the text in the video and slides to another language you can see how to do it [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/40). 
+
+**Proposes how we can make improvements in the Storytelling of our written interviews**
+As you can see we already have some writing interviews of activists. The way how can we improve the delivering of that interviews to them can be better! If you know how can you help us please comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/42)
+
 
 ### _**2) Content Contributions:**_
 
@@ -86,6 +96,7 @@ If you know an activist and you would like to make an interview please:
 1) Read our [Contributing Guideline for Interviewers](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/GUIDELINES/INTERVIEWCONTRIBUTING.md)
 2) Make an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new)  and apply the following labels ![captura de pantalla 2018-04-25 a las 11 09 33 a m](https://user-images.githubusercontent.com/32823481/39236540-5bf9ec58-4879-11e8-89d5-e5496bef2707.png)
 3) Propose a approximate deadline doing a [milestone](https://github.com/Beyondactivismo/Beyondactivismo/milestones/new).
+
 
 **[Suggest an Activist to be interviewed](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)**
   
@@ -117,10 +128,12 @@ Your feedback is always important that is why we need to hear it, take notes and
 
 **[Suggestions, comments and critics to our project]((https://github.com/Beyondactivismo/Beyondactivismo/issues/43)**
   
+
 Your opinion is fundamental for us, please let us know what you think about our project [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)
 
 ### _**6) Other ways to Contribute:**_
 There are many ways to contribute:
+
 
 **[Fundraising Expertise](https://github.com/Beyondactivismo/Beyondactivismo/issues/44)**
   
@@ -134,10 +147,12 @@ You can use our images and gif from [here](https://github.com/Beyondactivismo/Be
 
 
 
+
 **If you have an idea to help us please share that with as suggesting your way to help us [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)**
 
 
 ### **COMMUNICATION CHANNELS**
+
 During the Mozilla Global Sprint you can reach us here:
 
 Twitter: [@beyondactivismo](https://twitter.com/beyondactivismo)   
