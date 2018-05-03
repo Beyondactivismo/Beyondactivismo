@@ -66,6 +66,7 @@
 
   In order to set up a connection between all the histories we established a basic opening we'd like to ask you to follow:
 
+
    * Who you are?
    * What do you do?
    * What cause/s are you pursuing?  
@@ -73,11 +74,11 @@
 
 ### BODY
 
-  As we believe on your contribution and creativity, it is important that you fell free to desing you own storytelling.
-  We give you a guideline of the topics we consider you should aproach in order to make a connection between all histories.
-  Here are two tools that can be helfully by writing your storyguide
+  As we believe on your contribution and creativity, it is important that you feel free to design you own storytelling.
+  We give you a guideline of the topics we consider you should approach in order to make a connection between all histories.
+  Here are two tools that can be helpfully by writing your story-guide
 
-  [User-Centred Research Guidelines ](https://www.circulardesignguide.com/post/lead-with-user-centred-research)  
+  [User-Centered Research Guidelines ](https://www.circulardesignguide.com/post/lead-with-user-centred-research)  
   [Tool to help you prepare your questions](http://diytoolkit.org/tools/question-ladder/)
 
 
@@ -127,7 +128,7 @@ _**4 Who supports them**_
 
    1. Who (group of persons/authority/ organization/ etc) support they at the beginning (human and monetary resources).
    2. How is the collaboration and help from other civil society organizations.
-   3. How do they encourege people to collaborate with them?
+   3. How do they encourage people to collaborate with them?
    4. Criticism regarding support for human rights activists.
    5. Recommendations of how to get human and monetary resources.
    6. How do they create impact.
