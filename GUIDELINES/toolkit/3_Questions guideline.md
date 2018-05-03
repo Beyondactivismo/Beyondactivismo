@@ -4,23 +4,23 @@
 
 **Who is the person behind it?** 
       
- Filling out this basic informationform meight help you to know the person better before getting in contact. 
-      
-            Name-Nickname:
-            Nationality:
-            Age:
-            Language(s):
-            Profession:
-            Current position:
-            Organization or Institution:
-            Categories of activism:
+ Collecting this basic information can help you get to know the person better before you contact them. 
+            
+           
+            Is an activist in....
+            
+            You consider her/him an activist because... 
+ 
+            Where does the person activism takes place...(Location, Organization-Institution...)
+            
+            Is the person in danger? If so can you ensure a safe meeting? under which conditions? 
 
 
 **Contact the person**
   
    _Present the project_: you can either Use [The Intro video] or use the [Text]
       
-   _Explain the reason why_ you believe it is important to publish her/his history: 
+   _Explain the reason why_ you believe it is important to publish her/his history. 
        
    _How_ the material will be used 
       
