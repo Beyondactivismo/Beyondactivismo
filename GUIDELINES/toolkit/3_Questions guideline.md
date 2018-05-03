@@ -31,16 +31,16 @@ This scheme works as a guideline and support for all our collaborators to unders
    From our side, it is very important to set up a transparent and trustable environment.
    That is why we recommend to start with an introduction about our methodologies:
 
-   * do the interview
+   * collect the hisotry 
    * upload the material on the platform
    * pass through the data checking team
    * pass through the design team
-   * be send to the interviewee to check the content and storytelling
+   * be send to the person  to check the content and storytelling
    * possible corrections
    * publish it on www.beyondactivismo.org
 
                   
-                  Don´t forget to give the interviewee the space to ask us as many as he/she wants!!!
+                  Don´t forget to give the person the space to ask us as many as wants!!!
 
 
 ### OPENING
@@ -54,7 +54,7 @@ This scheme works as a guideline and support for all our collaborators to unders
 
 ### BODY
 
-   We believe on the contribution of new ideas and the freedom of creativity from each one of our collaborators.
+   We believe on your contribution and creativity.
    Therefore, the following questions can also be taken as examples, also the flow of the interview can be freely modified.
    The focus of this part is on her/his activity. As our main goal is to build a community based on trustable information
    about activist we need to be able to comprehend:
@@ -79,12 +79,11 @@ _**Their motivations**_
 
 _Examples:_
 
-    * What motivated you to start to participate like activist?
+    * What motivated you to become an activist?
     * When you decided to become an activist?
     * There was a particular event that motivated you to become an activist?
-    * How did you get involve in Human Rights causes?
     * What motivates you to fight every day for your cause?
-    * How was the process in which you became an activist?
+   
 
 _**Know their struggles, defeats and victories**_
 
@@ -113,11 +112,10 @@ _**Who supports them**_
 
 _Examples:_
 
-    * Who support you at the beginning?
-    * Your supporters from the beginning are still with you?
-    * How do you do to keep your supporters?
-    * How is the collaboration and help from other civil society organizations?
-    * How you do it to attract people to collaborate with you?
+    * Who support you at the beginning? Do they still support you?
+    * How do you build up continuity with your supporters?
+    * How is the collaboration/help from other civil society organizations?
+    * How do you encourege people to collaborate with you?
     * Do you have positive and negative comments about the cooperation between different human rights organizations in your        field?
 
 
