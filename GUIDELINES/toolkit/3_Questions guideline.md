@@ -161,7 +161,7 @@ _Examples:_
 
 ## 3.Setting
 
-_(People who does not have previous experiences.)_
+_(People who do not have previous experiences.)_
 
 _(see if we can do it in an interactive/merge way for different ‘levels’ of experience, E.g BBC cooking manual)_
 
