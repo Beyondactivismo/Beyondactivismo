@@ -133,5 +133,5 @@ On this last stage our purpose is try to connect the interviewee with our commun
 
 
 
-[User-Centred Research Guidelines ] (https://www.circulardesignguide.com/post/lead-with-user-centred-research)
-[Tool to help you developing quiestions] (http://diytoolkit.org/tools/question-ladder/)
+[User-Centred Research Guidelines ] [https://www.circulardesignguide.com/post/lead-with-user-centred-research]
+[Tool to help you developing quiestions][http://diytoolkit.org/tools/question-ladder/]
