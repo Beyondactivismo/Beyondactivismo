@@ -121,16 +121,6 @@ _Examples:_
 
 ## CLOSING
 
-On this last stage our purpose is try to connect the interviewee with our community.
+[User-Centred Research Guidelines ](https://www.circulardesignguide.com/post/lead-with-user-centred-research)
 
-    * Do you have some message for the people who wants to participate in activism?
-    * How can our readers get in contact, support or collaborate with you?
-    * To what authority would you send a message and what would it be?
-    * Which activist would you recommend for the next interview? Is there anything you always wanted to know about
-    her/him?
-
-
-
-![User-Centred Research Guidelines ][#https://www.circulardesignguide.com/post/lead-with-user-centred-research]
-
-![Tool to help you developing quiestions][#http://diytoolkit.org/tools/question-ladder/]
+[Tool to help you developing quiestions](http://diytoolkit.org/tools/question-ladder/)
