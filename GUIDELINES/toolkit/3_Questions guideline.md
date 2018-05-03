@@ -1,12 +1,10 @@
 
-Scheme of questions for the interviews to Beyond Activismo:
 
 ## 1.Find a History 
 
-  *Who is the person behind it? 
+**Who is the person behind it?** 
       
-      * Filling out this basic information form meight help you
-      to know the person better before getting in contact. 
+ Filling out this basic informationform meight help you to know the person better before getting in contact. 
       
             Name-Nickname:
             Nationality:
@@ -17,9 +15,9 @@ Scheme of questions for the interviews to Beyond Activismo:
             Organization or Institution:
             Categories of activism:
 
- **Conctact the person**
-   (Basic tips on how to approach people. Waiting time before re-writing to somebody)
- 
+
+**Contact the person**
+  
    _Present the project_: you can either Use [The Intro video] or use the [Text]
       
    _Explain the reason why_ you believe it is important to publish her/his history: 
@@ -28,10 +26,10 @@ Scheme of questions for the interviews to Beyond Activismo:
       
    _How long_ the interview will take. 
       
+                           If you don´t Waiting time before re-writing to somebody
 
- **Prepare yourself**  
-  
-     
+**Prepare yourself**  
+    
    _1.Location:_ If possible do it on a place the person proposed, that will help her/him fell more confortable.                  Also take into account your surroundings Light, which time is it better. Do you need any extra equipment (lights,reflectors,...) Can you go there before? or get any idea of how it is? Get familiar with the place,  even make a short testing?  
    
    _2.Person:_ Can we show the person? If not, what chances do we have to represent her/him on the video/photos?
@@ -50,6 +48,12 @@ location?
 
 This scheme works as a guideline and support for all our collaborators to understand BA purpose.
 History 
+
+Here are two tools we recomend you if you need help on writing your storyguide
+
+[User-Centred Research Guidelines ](https://www.circulardesignguide.com/post/lead-with-user-centred-research)
+
+[Tool to help you developing quiestions](http://diytoolkit.org/tools/question-ladder/)
 
 ### INTRODUCTION
 
@@ -82,8 +86,7 @@ History
   As we believe on your contribution and creativity, it is important that you fell free to desing you own storytelling. 
   We give you a guideline of the topics we consider you should aproach in order to make a connection between all histories. 
   
-  
-  
+   
  _**1 How they see Activism**_
 
    1. If they consider themselves activists.
@@ -92,9 +95,9 @@ History
 
 _Examples:_
 
-    * Do you consider yourself an activist?
-    * What is the positive side to be an activist? What is the negative?
-    * How do you define your way to make activism?
+   * Do you consider yourself an activist?
+   * What is the positive side to be an activist? What is the negative?
+   * How do you define your way to make activism?
 
 _**2 Their motivations**_
 
@@ -104,10 +107,10 @@ _**2 Their motivations**_
 
 _Examples:_
 
-    * What motivated you to become an activist?
-    * When you decided to become an activist?
-    * There was a particular event that motivated you to become an activist?
-    * What motivates you to fight every day for your cause?
+   * What motivated you to become an activist?
+   * When you decided to become an activist?
+   * There was a particular event that motivated you to become an activist?
+   * What motivates you to fight every day for your cause?
    
 
 _**3 Know their struggles, defeats and victories**_
@@ -121,27 +124,27 @@ _**3 Know their struggles, defeats and victories**_
 
 _Examples:_
 
-    * What has been the most difficult part in your daily struggle?
-    * Have you ever been in danger?
-    * Did you receive a threat for doing what you do? Can you tell us about?
+   * What has been the most difficult part in your daily struggle?
+   * Have you ever been in danger?
+   * Have you ever been threaten? Can you tell us about?
 
 
 _**4 Who supports them**_
 
    1. Who (group of persons/authority/ organization/ etc) support they at the beginning (human and monetary resources).
    2. How is the collaboration and help from other civil society organizations.
-   3. How do they do to attract people to collaborate with them.
+   3. How do they encourege people to collaborate with them?
    4. Criticism regarding support for human rights activists.
    5. Recommendations of how to get human and monetary resources.
-   6. How they do to create impact.
+   6. How do they create impact.
 
 _Examples:_
 
-    * Who support you at the beginning? Do they still support you?
-    * How do you build up continuity with your supporters?
-    * How is the collaboration/help from other civil society organizations?
-    * How do you encourege people to collaborate with you?
-    * Do you have positive and negative comments about the cooperation between different human rights organizations in your        field?
+   * Who support you at the beginning? Do they still support you?
+   * How do you build up continuity with your supporters?
+   * How do you encourege people to collaborate with you?
+   * How is the collaboration/help from other civil society organizations?
+   * Do you have any comments about cooperation between different human rights organizations in your field?
 
 
 ### CLOSING
@@ -155,10 +158,10 @@ _Examples:_
 -    * Which activist would you recommend for the next interview? Is there anything you always wanted to know about
 -    her/him?
 
-[User-Centred Research Guidelines ](https://www.circulardesignguide.com/post/lead-with-user-centred-research)
 
-[Tool to help you developing quiestions](http://diytoolkit.org/tools/question-ladder/)
 
+
+                                           THANK THE PERSON!!!
 
 ## 3.Setting
 
