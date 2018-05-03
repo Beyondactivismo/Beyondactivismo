@@ -5,7 +5,7 @@ See the [example](#example)
 
 Hi! :smiley:
 
-If you want to collaborate in Beyond Activismo making interviews, here is a guideline that can help you to make a good one. Please respect the purposes of the Introductory Questions, Questions related to her or his activity and the Closing Questions because we can archieve one of the objectives of Beyond Activismo.
+If you want to collaborate in Beyond Activismo making interviews, here is a guideline that can help you to make a good one. Please respect the purposes of the Introductory Questions, Questions related to her or his activity and the Closing Questions because we can achieve one of the objectives of Beyond Activismo.
 
 **I. Basic Information:**
 
@@ -13,7 +13,7 @@ Before you start the interview, you should have the following basic information:
 
 - Full name:
 
-- Nationality: 
+- Nationality:
 
 - Age:
 
