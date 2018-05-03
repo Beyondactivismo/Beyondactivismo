@@ -1,5 +1,27 @@
 methodologiesrecommend## Scheme of questions for the interviews to Beyond Activismo:
 
+**1.Find a History **
+
+   everything upto the day of the meeting 
+  
+  - conctact the person: present the project, and the reason why you believe it is important to publish hers/his history.
+  - Basic tips on how to approach people. Waiting time before re-writing to somebody.
+  
+   
+**2.Setting**
+
+_(People who does not have previous expiriencess.)_
+_(see if we can do it in an interactive/merge way for different ‘levels’ of experience, E.g BBC cooking manual )_
+
+_( buletpoint  with basic introduction and at the end of each one we can add a Link with extra material) 
+E.g [https://www.circulardesignguide.com/post/embed-feedback]
+
+
+* Setting: take into account the place and how the person will feel. If possible always do it on a place the person proposed. Also take on account your surroundings(noise or wind when recording audio, light for shooting video)
+
+* Attitude/ Behavior : be calm and friendly. Respect the time of others. It is not an interview to confront somebody but to understand and lend a voice to them.
+
+** Technical setting of micro, camera, etc
 This scheme works as a guideline and support for all our collaborators to understand BA purpose.
 
 
@@ -107,3 +129,8 @@ On this last stage our purpose is try to connect the interviewee with our commun
     * To what authority would you send a message and what would it be?
     * Which activist would you recommend for the next interview? Is there anything you always wanted to know about
     her/him?
+
+
+
+[User-Centred Research Guidelines ] https://www.circulardesignguide.com/post/lead-with-user-centred-research
+[Tool to help you developing quiestions] http://diytoolkit.org/tools/question-ladder/
