@@ -1,7 +1,7 @@
 
 Scheme of questions for the interviews to Beyond Activismo:
 
-**1.Find a History **
+##1.Find a History 
 
   *Who is the person behind it? 
       
@@ -17,24 +17,26 @@ Scheme of questions for the interviews to Beyond Activismo:
             Organization or Institution:
             Categories of activism:
 
- *Conctact the person
+ **Conctact the person**
    (Basic tips on how to approach people. Waiting time before re-writing to somebody)
  
-      * Present the project: you can either Use [The Intro video] or use the [Text]
+   _Present the project_: you can either Use [The Intro video] or use the [Text]
       
-      * Explain the reason why you believe it is important to publish her/his history: 
+   _Explain the reason why_ you believe it is important to publish her/his history: 
        
-      * How the material will be used 
+   _How_ the material will be used 
       
-      * How long the interview will take. 
+   _How long_ the interview will take. 
       
 
-*Prepare yourself  
+ **Prepare yourself**  
   
      
-                  1.Location: If possible do it on a place the person proposed, that will help her/him fell more confortable.                  Also take into account your surroundings Light, which time is it better. Do you need any extra equipment (lights,reflectors,...) Can you go there before? or get any idea of how it is? Get familiar with the place,  even make a short testing?  
-                  2.Person: Can we show the person? If not, what chances do we have to represent her/him on the video/photos?
-                  3.Photo/Video: details or cutaways, to combine them is also an option! 
+   _1.Location:_ If possible do it on a place the person proposed, that will help her/him fell more confortable.                  Also take into account your surroundings Light, which time is it better. Do you need any extra equipment (lights,reflectors,...) Can you go there before? or get any idea of how it is? Get familiar with the place,  even make a short testing?  
+   
+   _2.Person:_ Can we show the person? If not, what chances do we have to represent her/him on the video/photos?
+   
+   _3.Photo/Video:_ details or cutaways, to combine them is also an option! 
                  
 
 
@@ -46,7 +48,7 @@ location?
 
 
    
-**2.Setting**
+##2.Setting
 
 _(People who does not have previous expiriencess.)_
 
@@ -56,9 +58,9 @@ E.g [Of organization](https://www.circulardesignguide.com/post/embed-feedback)
 
 
 
-* Attitude/ Behavior : be calm and friendly. Respect the time of others. It is not an interview to confront somebody but to understand and lend a voice to them.
+**Attitude/ Behavior:** be calm and friendly. Respect the time of others. It is not an interview to confront somebody but to understand and lend a voice to them.
 
-* Technical setting:
+**Technical setting:**
 
    * micro: -What about ambient noise levels? Traffic/machine noise/wind?
 -is it a controlled or uncontrolled environment? 
