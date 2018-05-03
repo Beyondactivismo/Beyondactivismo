@@ -56,9 +56,11 @@ History
 ### BODY
 
   As we believe on your contribution and creativity, it is important that you fell free to desing you own storytelling. 
-  As our main goal is to build a community based on trustable information about activist we need to be able to comprehend:
-  The focus of this part is on her/his activity. 
- _**How they see Activism**_
+  We give you a guideline of the topics we consider you should aproach in order to make a connection between all histories. 
+  
+  
+  
+ _**1 How they see Activism**_
 
    1. If they consider themselves activists.
    2. What does it means to be an activist and to do activism to them.
@@ -70,7 +72,7 @@ _Examples:_
     * What is the positive side to be an activist? What is the negative?
     * How do you define your way to make activism?
 
-_**Their motivations**_
+_**2 Their motivations**_
 
    1. Why and how they become an activists.
    2. What motivates them every day to continue working as activists.
@@ -84,7 +86,7 @@ _Examples:_
     * What motivates you to fight every day for your cause?
    
 
-_**Know their struggles, defeats and victories**_
+_**3 Know their struggles, defeats and victories**_
 
    1. Which are the major problems that they identified to achieve their goals and how they overcome them.
    2. If they put their life in risk doing activism.
@@ -100,7 +102,7 @@ _Examples:_
     * Did you receive a threat for doing what you do? Can you tell us about?
 
 
-_**Who supports them**_
+_**4 Who supports them**_
 
    1. Who (group of persons/authority/ organization/ etc) support they at the beginning (human and monetary resources).
    2. How is the collaboration and help from other civil society organizations.
