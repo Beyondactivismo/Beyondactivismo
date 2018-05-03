@@ -3,26 +3,76 @@ Scheme of questions for the interviews to Beyond Activismo:
 
 **1.Find a History **
 
-   everything upto the day of the meeting 
+  *Who is the person behind it? 
+      
+      * Filling out this basic information form meight help you
+      to know the person better before getting in contact. 
+      
+            Name-Nickname:
+            Nationality:
+            Age:
+            Language(s):
+            Profession:
+            Current position:
+            Organization or Institution:
+            Categories of activism:
+
+ *Conctact the person
+   (Basic tips on how to approach people. Waiting time before re-writing to somebody)
+ 
+      * Present the project: you can either Use [The Intro video] or use the [Text]
+      
+      * Explain the reason why you believe it is important to publish her/his history: 
+       
+      * How the material will be used 
+      
+      * How long the interview will take. 
+      
+
+*Prepare yourself  
   
-  - conctact the person: present the project, and the reason why you believe it is important to publish hers/his history.
-  - Basic tips on how to approach people. Waiting time before re-writing to somebody.
-  
+     
+                  1.Location: If possible do it on a place the person proposed, that will help her/him fell more confortable.                  Also take into account your surroundings Light, which time is it better. Do you need any extra equipment (lights,reflectors,...) Can you go there before? or get any idea of how it is? Get familiar with the place,  even make a short testing?  
+                  2.Person: Can we show the person? If not, what chances do we have to represent her/him on the video/photos?
+                  3.Photo/Video: details or cutaways, to combine them is also an option! 
+                 
+
+
+-what other material (photos, diagrams, screenshots, logos) might be useful/necessary? 
+-are there opportunities for filming cutaways and details at, or near, the interview 
+location?
+
+
+
+
    
 **2.Setting**
 
 _(People who does not have previous expiriencess.)_
+
 _(see if we can do it in an interactive/merge way for different ‘levels’ of experience, E.g BBC cooking manual)_
 
-E.g [from Lay out and organization](https://www.circulardesignguide.com/post/embed-feedback)
-_(Buletpoint with basic introduction and at the end of each one we can add a Link with extra material) 
+E.g [Of organization](https://www.circulardesignguide.com/post/embed-feedback)
 
 
-* Setting: take into account the place and how the person will feel. If possible always do it on a place the person proposed. Also take on account your surroundings(noise or wind when recording audio, light for shooting video)
 
 * Attitude/ Behavior : be calm and friendly. Respect the time of others. It is not an interview to confront somebody but to understand and lend a voice to them.
 
-* Technical setting of micro, camera, etc
+* Technical setting:
+
+   * micro: -What about ambient noise levels? Traffic/machine noise/wind?
+-is it a controlled or uncontrolled environment? 
+   * camera:   
+      * check white balance, settings, iris etc.
+        * follow composition guidelines (rule of thirds, headroom, looking space, etc) 
+        * no 'crossing the line'  - imagine the camera is a theatre audience, your subjects are on stage – the camera should stay in the audience and not cross to the other side of the speakers.
+        * camera at eye level (or maybe slightly above) 
+        * subject should look at interviewer, just off camera 
+
+
+                                 Before starting double check everything!!!
+                                 
+## Storytelling guideline 
 
 This scheme works as a guideline and support for all our collaborators to understand BA purpose.
 History 
