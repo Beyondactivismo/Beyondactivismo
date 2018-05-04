@@ -1,8 +1,8 @@
 
 
-## Finding a History
+# Finding a History
 
-**1.Does the History match BA´s principles?**
+## 1.Does the History match BA´s principles?
 
 When looking for a History to tell, make sure that it matchs BA´s principles:
 
@@ -10,7 +10,7 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
  
  *Human Rigths: 
 
-**2.Who is the person beyond it?**
+## 2.Who is the person beyond it?
 
  Collecting this basic information can help you get to know the person better before you contact them.
 
@@ -24,7 +24,7 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
             Is the person in danger? If so can you ensure a safe meeting? under which conditions?
 
 
-**3.Contact the History**
+## 3.Contact the History
 
    _Present the project_: you can either Use [The Intro video] or use the [Text]
 
@@ -41,9 +41,9 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
 
 
 
-## Historytelling Guideline
+# Historytelling Guideline
 
-**1.Key principles to get a Fair History** 
+## 1.Key principles to get a Fair History
 
 * Human Centered Research 
 
@@ -52,7 +52,7 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
 * Open Source 
 
 
-**2.Prepare yourself**  
+## 2.Prepare yourself
 
    _1.Location:_ If possible do it on a place the person proposed, that will help her/him fell more comfortable.                  Also take into account your surroundings Light, which time is it better. Do you need any extra equipment (lights, reflectors,...) Can you go there before? or get any idea of how it is? Get familiar with the place,  even make a short testing?  
 
@@ -64,9 +64,9 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
 
 
 
-**3.History Content Guideline** 
+## 3.History Content Guideline
 
-### Introduction
+ **INTRODUCTION**
 
    From our side, it is very important to set up a transparent and trustable environment.
    That is why we recommend to start with an introduction about our methodologies:
@@ -83,7 +83,7 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
                   Don´t forget to give the person the space to ask us as many as wants!!!
 
 
-### Opening
+**OPENING**
 
   In order to set up a connection between all the histories we established a basic opening we'd like to ask you to follow:
 
@@ -93,7 +93,7 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
    * What cause/s are you pursuing?  
 
 
-### Body
+**BODY**
 
   As we believe on your contribution and creativity, it is important that you feel free to design you own storytelling.
   We give you a guideline of the topics we consider you should approach in order to make a connection between all histories.
@@ -103,7 +103,7 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
   [Tool to help you prepare your questions](http://diytoolkit.org/tools/question-ladder/)
 
 
- _**1. How they see Activism**_
+ _**A. How they see Activism**_
 
    1. If they consider themselves activists.
    2. What does it mean for them to be an activist and to do activism.
@@ -115,7 +115,7 @@ _Examples:_
    * What is the positive side to be an activist? What is the negative?
    * How do you define your way to make activism?
 
-_**2. Their motivations**_
+_**B. Their motivations**_
 
    + Why and how they become an activists.
    + What motivates them every day to continue working as activists.
@@ -129,7 +129,7 @@ _Examples:_
    * What motivates you to fight every day for your cause?
 
 
-_**3 Know their struggles, defeats and victories**_
+_**C.Know their struggles, defeats and victories**_
 
    1. Which are the major problems that they identified to achieve their goals and how they overcome them.
    2. If they put their life in risk doing activism.
@@ -145,7 +145,7 @@ _Examples:_
    * Have you ever been threaten? Can you tell us about?
 
 
-_**4 Who supports them**_
+_**D.Who supports them**_
 
    1. Who (group of persons/authority/ organization/ etc) support they at the beginning (human and monetary resources).
    2. How is the collaboration and help from other civil society organizations.
@@ -163,7 +163,7 @@ _Examples:_
    * Do you have any comments about cooperation between different human rights organizations in your field?
 
 
-### Closing
+**CLOSING**
 
 
 -On this last stage our purpose is try to connect the Activist with our community.
@@ -182,7 +182,7 @@ _Examples:_
 
 
 
-**4.Setting**
+## 4.Setting
 
 _(People who do not have previous experiences.)_
 
