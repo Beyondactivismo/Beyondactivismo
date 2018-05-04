@@ -1,6 +1,6 @@
 
 
-## Finding a History
+# Finding a History
 
 ### 1.Does the History match BA´s principles?
 
@@ -41,7 +41,7 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
 
 
 
-# Hi  ## storytelling Guideline
+# Historytelling Guideline
 
 ### 1.Key principles to get a Fair History
 
@@ -182,7 +182,7 @@ _Examples:_
 
 
 
-### 4.Setting
+# Setting
 
 _(People who do not have previous experiences.)_
 
