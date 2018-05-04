@@ -1,8 +1,16 @@
 
 
-## 1.Find a History
+## Finding a History
 
-**Who is the person behind it?**
+**1.Does the History match BA´s principles?**
+
+When looking for a History to tell, make sure that it matchs BA´s principles:
+
+ *Activism: 
+ 
+ *Human Rigths: 
+
+**2.Who is the person beyond it?**
 
  Collecting this basic information can help you get to know the person better before you contact them.
 
@@ -16,7 +24,7 @@
             Is the person in danger? If so can you ensure a safe meeting? under which conditions?
 
 
-**Contact the person**
+**3.Contact the History**
 
    _Present the project_: you can either Use [The Intro video] or use the [Text]
 
@@ -26,10 +34,25 @@
 
    _How long_ the interview will take.
 
-                  If you don´t receive an answer we encourage you to wait at leas xx before re-writing to the person.
+                      
+                        If you don´t receive an answer we encourage you to keep on trying. 
+                        It doesn´t mean they don´t want to do it but they probably have lot 
+                        of stuff on the table.  
 
 
-**Prepare yourself**  
+
+## Historytelling Guideline
+
+**1.Key principles to get a Fair History** 
+
+* Human Centered Research 
+
+* Co-Working 
+
+* Open Source 
+
+
+**2.Prepare yourself**  
 
    _1.Location:_ If possible do it on a place the person proposed, that will help her/him fell more comfortable.                  Also take into account your surroundings Light, which time is it better. Do you need any extra equipment (lights, reflectors,...) Can you go there before? or get any idea of how it is? Get familiar with the place,  even make a short testing?  
 
@@ -41,11 +64,9 @@
 
 
 
+**3.History Content Guideline** 
 
-## 2.Storytelling guideline
-
-
-### INTRODUCTION
+### Introduction
 
    From our side, it is very important to set up a transparent and trustable environment.
    That is why we recommend to start with an introduction about our methodologies:
@@ -62,7 +83,7 @@
                   Don´t forget to give the person the space to ask us as many as wants!!!
 
 
-### OPENING
+### Opening
 
   In order to set up a connection between all the histories we established a basic opening we'd like to ask you to follow:
 
@@ -72,7 +93,7 @@
    * What cause/s are you pursuing?  
 
 
-### BODY
+### Body
 
   As we believe on your contribution and creativity, it is important that you feel free to design you own storytelling.
   We give you a guideline of the topics we consider you should approach in order to make a connection between all histories.
@@ -142,7 +163,7 @@ _Examples:_
    * Do you have any comments about cooperation between different human rights organizations in your field?
 
 
-### CLOSING
+### Closing
 
 
 -On this last stage our purpose is try to connect the Activist with our community.
@@ -159,7 +180,9 @@ _Examples:_
 
                                            THANK THE PERSON!!!
 
-## 3.Setting
+
+
+**4.Setting**
 
 _(People who do not have previous experiences.)_
 
