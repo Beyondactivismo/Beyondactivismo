@@ -71,8 +71,7 @@ You can read our [Contributing Guidelines](https://github.com/Beyondactivismo/Be
 
 ### Who are behind Beyond Activismo?
 
-If you want to know the people behind Beyond Activismo, we invite you to read about our self and also to introduce yourself [here](). 
-
+If you want to know the people behind Beyond Activismo, we invite you to read about our self and also to introduce yourself [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/46). 
 
 
 ### MozSprint 2018
