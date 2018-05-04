@@ -41,7 +41,7 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
 
 
 
-# Hi ##storytelling Guideline
+# Hi  ## storytelling Guideline
 
 ### 1.Key principles to get a Fair History
 
