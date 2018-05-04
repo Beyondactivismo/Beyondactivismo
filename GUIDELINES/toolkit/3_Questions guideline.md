@@ -1,8 +1,8 @@
 
 
-# Finding a History
+## Finding a History
 
-## 1.Does the History match BA´s principles?
+### 1.Does the History match BA´s principles?
 
 When looking for a History to tell, make sure that it matchs BA´s principles:
 
@@ -10,7 +10,7 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
  
  *Human Rigths: 
 
-## 2.Who is the person beyond it?
+### 2.Who is the person beyond it?
 
  Collecting this basic information can help you get to know the person better before you contact them.
 
@@ -24,7 +24,7 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
             Is the person in danger? If so can you ensure a safe meeting? under which conditions?
 
 
-## 3.Contact the History
+### 3.Contact the History
 
    _Present the project_: you can either Use [The Intro video] or use the [Text]
 
@@ -41,9 +41,9 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
 
 
 
-# Historytelling Guideline
+# Hi ##storytelling Guideline
 
-## 1.Key principles to get a Fair History
+### 1.Key principles to get a Fair History
 
 * Human Centered Research 
 
@@ -52,7 +52,7 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
 * Open Source 
 
 
-## 2.Prepare yourself
+### 2.Prepare yourself
 
    _1.Location:_ If possible do it on a place the person proposed, that will help her/him fell more comfortable.                  Also take into account your surroundings Light, which time is it better. Do you need any extra equipment (lights, reflectors,...) Can you go there before? or get any idea of how it is? Get familiar with the place,  even make a short testing?  
 
@@ -64,7 +64,7 @@ When looking for a History to tell, make sure that it matchs BA´s principles:
 
 
 
-## 3.History Content Guideline
+### 3.History Content Guideline
 
  **INTRODUCTION**
 
@@ -182,7 +182,7 @@ _Examples:_
 
 
 
-## 4.Setting
+### 4.Setting
 
 _(People who do not have previous experiences.)_
 
