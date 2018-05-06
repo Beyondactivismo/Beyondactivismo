@@ -119,7 +119,7 @@ If you are a musician and you work integrating your art with social causes, plea
 
 **[Set to music audiovisual content]()**
 
-As you can see the idea is also to work in audiovisual format. In turn, there is a predispocisión to integrate different forms of art to Beyond Activismo. For this reason, the music composition for audiovisual projects is fundamental. 
+As you can see the idea is also to work in audiovisual format. In turn, there is a predisposition to integrate different forms of art to Beyond Activismo. For this reason, the music composition for audiovisual projects is fundamental. 
 
 If you are interested in helping us, please write an [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new), telling us about yourself and your willingness to collaborate with Beyond Activismo.
 
