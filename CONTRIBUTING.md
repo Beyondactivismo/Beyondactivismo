@@ -4,7 +4,7 @@
 
 _Trying to understand people from different cultures, religions and countries have in common through their activism, is an amazing but difficult task. With that in mind, we are working on an open project that tries to connect and share the histories & experiences of human rights activists, in an attractive and creative way._
 
-<img src="https://github.com/Beyondactivismo/Beyondactivismo/blob/master/fotos/Contribute_Content-small.jpg" alt="Content Slide" style="width: 100px;"/>
+
 
 ## **WELCOME!!** 🎉 🎉
 
@@ -83,7 +83,6 @@ As you can see we already have some writing interviews of activists. The way how
 
 ### 2. Content
 
-<img src=" https://github.com/Beyondactivismo/Beyondactivismo/fotos/Contribute_Content-small.jpg" width="420" height="297" alt="Contribute Content Slide" />
 
 ![Content Slide](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/fotos/Contribute_Content.jpg)
 
