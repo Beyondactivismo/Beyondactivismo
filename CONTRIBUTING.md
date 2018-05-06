@@ -17,12 +17,30 @@ make sure you agree with our [Code of Conduct](#code-of-conduct-).**
 **Best place to start is here #46. Please introduce yourself there and meet the team!**
 
 
- ##### [Here is a list of our issues sorted by topics.](https://github.com/Beyondactivismo/Beyondactivismo/projects/7) #####
+ ##### [Here is a list of our Moz Open Sprint issues sorted by topics.](https://github.com/Beyondactivismo/Beyondactivismo/projects/7) #####
 
 
+## Contributing Areas
+
+We need help in different fields of expertise.  
+[Web Development](#1_Web_Development)  
++ work open with Wordpress
++ Secure submission
++ Integrate GitHub and Wordpress Workflows
+
+[Content](#2_Content)  
++ Collect a story
++ Suggest an activist
++ Help to translate
+
+[Feedback]()
++ Toolkit (UX-Designer / Interface Designer)
++ General Feedback
 
 
-### _**1) Web Developers Contributions:**_  
+### 1. Web Development:
+![Web Developer Slide](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/fotos/contribue-webdevelopers-small.jpg)
+
 We are working in a Wordpress Multisite because we want to upload the content in different languages that is why we have different subdomains. Our problem is that we lack of experience and knowledge in Web development that is why we need:
 
  **[Ideas or Solutions to work open with Wordpress](https://github.com/Beyondactivismo/Beyondactivismo/issues/34)**   
@@ -61,7 +79,7 @@ We are thinking in different ways to get support to keep improving our project. 
 As you can see we already have some writing interviews of activists. The way how can we improve the delivering of that interviews to them can be better! If you know how can you help us please comment [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/42)
 
 
-### _**2) Content Contributions:**_
+### 2. Content
 
 **[Translations](https://github.com/Beyondactivismo/Beyondactivismo/issues/40)**
 Do you want to translate our content in other languages? Please help us to make the language barrier not to be an obstacle to anymore 😃 💪 💪  
