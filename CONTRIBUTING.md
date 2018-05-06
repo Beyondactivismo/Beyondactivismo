@@ -25,12 +25,12 @@ make sure you agree with our [Code of Conduct](#code-of-conduct-).**
 ## Contributing Areas
 
 We need help in different fields of expertise.  
-1. [Web Development](#1._Web_Development)  
+1. [Web Development](#1_web_development)  
   + work open with Wordpress
   + Secure submission
   + Integrate GitHub and Wordpress Workflows
 
-2. [Content](#2._Content)  
+2. [Content](#2_content)  
   + Collect a story
   + Suggest an activist
   + Help to translate
