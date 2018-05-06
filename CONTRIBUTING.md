@@ -23,19 +23,19 @@ make sure you agree with our [Code of Conduct](#code-of-conduct-).**
 ## Contributing Areas
 
 We need help in different fields of expertise.  
-[Web Development](#1_Web_Development)  
-+ work open with Wordpress
-+ Secure submission
-+ Integrate GitHub and Wordpress Workflows
+1. [Web Development](#1_Web_Development)  
+  + work open with Wordpress
+  + Secure submission
+  + Integrate GitHub and Wordpress Workflows
 
-[Content](#2_Content)  
-+ Collect a story
-+ Suggest an activist
-+ Help to translate
+2. [Content](#2_Content)  
+  + Collect a story
+  + Suggest an activist
+  + Help to translate
 
-[Feedback]()
-+ Toolkit (UX-Designer / Interface Designer)
-+ General Feedback
+3. [Feedback]()
+  + Toolkit (UX-Designer / Interface Designer)
+  + General Feedback
 
 
 ### 1. Web Development:
@@ -80,6 +80,11 @@ As you can see we already have some writing interviews of activists. The way how
 
 
 ### 2. Content
+
+<img src="https://github.com/Beyondactivismo/Beyondactivismo/blob/master/fotos/Contribute_Content.jpghttps://github.com/Beyondactivismo/Beyondactivismo/blob/master/fotos/Contribute_Content.jpg" 420="" height="297" alt="Contribute Content Slide" />
+
+![Content Slide](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/fotos/Contribute_Content.jpghttps://github.com/Beyondactivismo/Beyondactivismo/blob/master/fotos/Contribute_Content.jpg)
+
 
 **[Translations](https://github.com/Beyondactivismo/Beyondactivismo/issues/40)**
 Do you want to translate our content in other languages? Please help us to make the language barrier not to be an obstacle to anymore 😃 💪 💪  
