@@ -117,9 +117,9 @@ _Examples:_
 
 _**B. Their motivations**_
 
-   + Why and how they become an activists.
-   + What motivates them every day to continue working as activists.
-   + What are the positive and negative aspects in the life of an activist.
+   1. Why and how they become an activists.
+   2. What motivates them every day to continue working as activists.
+   3. What are the positive and negative aspects in the life of an activist.
 
 _Examples:_
 
@@ -151,8 +151,7 @@ _**D.Who supports them**_
    2. How is the collaboration and help from other civil society organizations.
    3. How do they encourage people to collaborate with them?
    4. Criticism regarding support for human rights activists.
-   5. Recommendations of how to get human and monetary resources.
-   6. How do they create impact.
+   5. How do they create impact.
 
 _Examples:_
 
@@ -164,16 +163,14 @@ _Examples:_
 
 
 **CLOSING**
+ 
+ On this last stage our purpose is try to connect the Activist with our community.
 
 
--On this last stage our purpose is try to connect the Activist with our community.
-
-
--    * Do you have some message for the people who wants to participate in activism?
--    * How can our readers get in contact, support or collaborate with you?
--    * To what authority would you send a message and what would it be?
--    * Which activist would you recommend for the next interview? Is there anything you always wanted to know about
--    her/him?
+  * Do you have some message for the people who wants to participate in activism?
+  * How can our readers get in contact, support or collaborate with you?
+  * To what authority would you send a message and what would it be?
+  * Which activist would you recommend for the next interview? Is there anything you always wanted to know about her/him?
 
 
 
