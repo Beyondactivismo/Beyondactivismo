@@ -83,6 +83,7 @@ As you can see we already have some writing interviews of activists. The way how
 
 ### 2. Content
 
+<img src=" https://github.com/Beyondactivismo/Beyondactivismo/fotos/Contribute_Content-small.jpg" width="420" height="297" alt="Contribute Content Slide" />
 
 ![Content Slide](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/fotos/Contribute_Content.jpg)
 
