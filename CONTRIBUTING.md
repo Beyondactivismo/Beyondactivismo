@@ -76,22 +76,27 @@ It is in an early stage, so feel free to [contact us](#communication-channels) o
 
 Do you know an activist and you want us to collect the History? Please let us know [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)! 😃
 
-#### Translations            
-[Issue 40](https://github.com/Beyondactivismo/Beyondactivismo/issues/40)
 
-Do you want to translate our content in other languages? Please help us to make the language barrier not to be an obstacle to anymore 😃 💪 💪  
+#### Translations            
+
+Do you want to translate our content in other languages? 
+
+Please [help us](https://github.com/Beyondactivismo/Beyondactivismo/issues/40) breaking the language barrier !!! 😃 💪 💪  
 
 **Translate our video**
+update-contributing.md
+If you want to help us to translate the video in the video and slides to another language please get in [contact with us](https://github.com/Beyondactivismo/Beyondactivismo/issues/40)
 
-If you want to help us with video and slides´s text please [contact us](https://github.com/Beyondactivismo/Beyondactivismo/issues/40)
+
+Than open a new [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new) with the titel translation-language. Please apply the following labels to your Issue so is easy to us to answer you![captura de pantalla 2018-05-01 a las 8 54 28 p m](https://user-images.githubusercontent.com/32823481/39488249-ebba9470-4d81-11e8-8ee6-f6bf3193a00e.png)
 
 
 ### 3. Feedback
 
-For general comments and suggestions, [chat with us or write down your thoughts](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)
+For general comments and suggestions, chat with us or write down your thoughts   [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)
 
 
-Do you have experience in Fundraising? Please comment[Here](https://github.com/Beyondactivismo/Beyondactivismo/issues/44) 
+Do you have experience in Fundraising? Please comment on this [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/44) if you want to help us or if you want to provide us advice to reach the funds that we could need and that we should apply.
 
 ### Spread the voice
 
