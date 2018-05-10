@@ -1,4 +1,4 @@
-![Logo](https://user-images.githubusercontent.com/32823481/38769888-7f244cea-400a-11e8-80a7-293dc415c086.png)](https://vimeo.com/user84907397/meet-beyondactivismo)  
+![[Logo](https://user-images.githubusercontent.com/32823481/38769888-7f244cea-400a-11e8-80a7-293dc415c086.png)](https://vimeo.com/user84907397/meet-beyondactivismo)  
 _Our goal is to understand what people from different cultures, religions, and countries have in common through their activism. Exploring how activist can help each other, is an amazing but difficult task. With that in mind we are working on an open project that tries to connect and share the histories & experiences of human rights activists, delivering the content in different languages, in attractive and creative ways._
 
 
