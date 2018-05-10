@@ -60,7 +60,6 @@ We are thinking in different ways to get support to keep improving our project. 
 
 ### 2. Content
 
-
 ![Content Slide](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/fotos/Contribute_Content-small.jpg)
 
 **[Do an Interview to an Activist]**
@@ -88,22 +87,17 @@ Than open a new issue  [Issue](https://github.com/Beyondactivismo/Beyondactivism
 
 
 ### 3. Feedback
-There are many ways to contribute:
 
-**For general comments and suggestions, chat with us or write down your thougts   [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)**
+For general comments and suggestions, chat with us or write down your thoughts   [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)
 
-**[Fundraising Expertise](https://github.com/Beyondactivismo/Beyondactivismo/issues/44)**
 
 Do you have experience in Fundraising? Please comment on this Issue(https://github.com/Beyondactivismo/Beyondactivismo/issues/44) if you want to help us or if you want to provide us advice to reach the funds that we could need and that we should apply.
 
-**Spread the voice**
+### Spread the voice
 
 A very easy way to help us is to spread the voice in your social networks.
 Share this [tweet](https://twitter.com/home?status=Hi!%20I%20am%20contributing%20with%20%40beyondactivismo!%20Join%20us%20in%20this%20%23Mozsprint2018%20and%20see%20how%20to%20contribute%20with%20this%20project!%20https%3A//github.com/Beyondactivismo/Beyondactivismo/blob/master/CONTRIBUTING.md) or make your own social network publication to help us.
 You can use our images and gif from [here](https://github.com/Beyondactivismo/Beyondactivismo/tree/master/Logo).
-
-
-
 
 
 
