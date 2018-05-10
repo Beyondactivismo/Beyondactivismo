@@ -1,11 +1,16 @@
 ![captura de pantalla 2018-04-14 a las 5 36 52 p m](https://user-images.githubusercontent.com/32823481/38769888-7f244cea-400a-11e8-80a7-293dc415c086.png)  
 _Our goal is to understand what people from different cultures, religions, and countries have in common through their activism. Exploring how activist can help each other, is an amazing but difficult task. With that in mind we are working on an open project that tries to connect and share the histories & experiences of human rights activists, delivering the content in different languages, in attractive and creative ways._
 
+
+![Mozsprint](https://github.com/mozilla/global-sprint/blob/master/img/GlobalSprint-Logo.png)  
+
 # Welcome
 
-Hi! Welcome to Beyond Activismo!
+Hi! Welcome to Beyond Activismo at the mozilla global sprint!
 
 Thank you very much  for visiting us, we are very happy to share information about the project, and to have the possibility of inviting you to be part of this community.
+
+You can read about our project :arrow_down: here :arrow_down:, read the (Contributing)[https://github.com/Beyondactivismo/Beyondactivismo/issues/46] or just introduce yourself [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/46) and meet the team!
 
 If you want you can jump straight to one of the sections below, or just scroll down to find out more :smiley:
 
