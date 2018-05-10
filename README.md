@@ -1,4 +1,4 @@
-![captura de pantalla 2018-04-14 a las 5 36 52 p m](https://user-images.githubusercontent.com/32823481/38769888-7f244cea-400a-11e8-80a7-293dc415c086.png)  
+![Logo](https://user-images.githubusercontent.com/32823481/38769888-7f244cea-400a-11e8-80a7-293dc415c086.png)  
 _Our goal is to understand what people from different cultures, religions, and countries have in common through their activism. Exploring how activist can help each other, is an amazing but difficult task. With that in mind we are working on an open project that tries to connect and share the histories & experiences of human rights activists, delivering the content in different languages, in attractive and creative ways._
 
 
@@ -76,7 +76,7 @@ You can read our [Contributing Guidelines](https://github.com/Beyondactivismo/Be
 
 ### Who are behind Beyond Activismo?
 
-If you want to know the people behind Beyond Activismo, we invite you to read about our self and also to introduce yourself [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/46). 
+If you want to know the people behind Beyond Activismo, we invite you to read about our self and also to introduce yourself [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/46).
 
 
 ### MozSprint 2018
