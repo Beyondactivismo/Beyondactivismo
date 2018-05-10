@@ -91,7 +91,7 @@ Than open a new issue  [Issue](https://github.com/Beyondactivismo/Beyondactivism
 For general comments and suggestions, chat with us or write down your thoughts   [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/43)
 
 
-Do you have experience in Fundraising? Please comment on this Issue(https://github.com/Beyondactivismo/Beyondactivismo/issues/44) if you want to help us or if you want to provide us advice to reach the funds that we could need and that we should apply.
+Do you have experience in Fundraising? Please comment on this [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/44) if you want to help us or if you want to provide us advice to reach the funds that we could need and that we should apply.
 
 ### Spread the voice
 
