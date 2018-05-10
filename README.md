@@ -10,7 +10,7 @@ Hi! Welcome to Beyond Activismo at the mozilla global sprint!
 
 Thank you very much  for visiting us, we are very happy to share information about the project, and to have the possibility of inviting you to be part of this community.
 
-You can read about our project :arrow_down: here :arrow_down:, read the (Contributing)[https://github.com/Beyondactivismo/Beyondactivismo/issues/46] or just introduce yourself [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/46) and meet the team!
+You can read about our project :arrow_down: here :arrow_down:, read the [Contributing](https://github.com/Beyondactivismo/Beyondactivismo/issues/46) or just introduce yourself [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/46) and meet the team!
 
 If you want you can jump straight to one of the sections below, or just scroll down to find out more :smiley:
 
