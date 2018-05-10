@@ -1,5 +1,5 @@
-# WIP:  #21
 ## How to upload it
+
 It hast to be an easy way to upload the material. It would be nice to program interactive boxes for uploading spaces
 on the webpage. I think we can have at the end of the toolkit something that indicates short and quick that all the information  to uploading the data is on the webpage.
 So that the collaborators are **sitting in front of the computer with their files ready and the instructions on how to upload them at the same time.**
@@ -13,14 +13,12 @@ e.g: we could ask all formats separately, so we can not just have the same order
 * audio  (a)
 
 
-
 ## File naming
 
 **Main code or Interview code.**
 
 As we need a way to organized several interviews at the same time, one option could be to have a system of
 'Interview number ' -like for university applications- so all files that belong to the same Interview would remain together.
-
 
 
 **File name.**
