@@ -62,13 +62,13 @@ We are thinking in different ways to get support to keep improving our project. 
 
 ![Content Slide](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/fotos/Contribute_Content-small.jpg)
 
-**[Do an Interview to an Activist]**
 
-[#39](https://github.com/Beyondactivismo/Beyondactivismo/issues/39)
+[**Collect a History**](https://github.com/Beyondactivismo/Beyondactivismo/issues/39)
 
 If you know an activist and you would like to make an interview please:
-1) Read our [Contributing Guideline for Interviewers](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/GUIDELINES/INTERVIEWCONTRIBUTING.md)
-2) Get in touch with us here. [Issue 39](https://github.com/Beyondactivismo/Beyondactivismo/issues/39)
+1. Read our [Contributing Guideline for Interviewers](https://github.com/Beyondactivismo/Beyondactivismo/GUIDELINES/toolkit/2_Collecting History Guideline.md) (It is in an early stage, so feel free to [contact us](communication-channels) or leave you feedback)  
+
+2. Get in touch with us here. [Issue 39](https://github.com/Beyondactivismo/Beyondactivismo/issues/39)
 
 **[Suggest an Activist to be interviewed](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)**
 
