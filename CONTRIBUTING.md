@@ -70,11 +70,11 @@ If you know an activist and you would like to make an interview please:
 
 It is in an early stage, so feel free to [contact us](#communication-channels) or leave you feedback  
 
-2. Get in touch with us here. [Issue 39](https://github.com/Beyondactivismo/Beyondactivismo/issues/39)
+2. Get in touch with us [here.](https://github.com/Beyondactivismo/Beyondactivismo/issues/39)
 
 **[Suggest an Activist to be interviewed](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)**
 
-Do you know an activist and you want us to interview him? Please let us know [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)! 😃
+Do you know an activist and you want us to collect the History? Please let us know [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/38)! 😃
 #### Translations            
 [Issue 40](https://github.com/Beyondactivismo/Beyondactivismo/issues/40)
 
