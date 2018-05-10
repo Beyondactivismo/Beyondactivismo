@@ -13,7 +13,7 @@ Hi! Thank you very much to be interested in collaborated with us!  We are very h
 ## HOW TO CONTRIBUTE
 
 **Before getting involved with the project  
-make sure you agree with our [Code of Conduct](Beyondactivismo/CONTRIBUTING.md ).**
+make sure you agree with our [Code of Conduct](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/CODE_OF_CONDUCT.md).**
 
 
 **Best place to start is here #46. Please introduce yourself there and meet the team!**
