@@ -16,7 +16,7 @@ Hi! Thank you very much to be interested in collaborated with us!  We are very h
 make sure you agree with our [Code of Conduct](https://github.com/Beyondactivismo/Beyondactivismo/blob/master/CODE_OF_CONDUCT.md).**
 
 
-**Best place to start is here #46. Please introduce yourself there and meet the team!**
+**Best place to start is [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/46). Please introduce yourself there and meet the team!**
 
 
  ##### [Here is a list of our Moz Open Sprint issues sorted by topics.](https://github.com/Beyondactivismo/Beyondactivismo/projects/7) #####
@@ -84,7 +84,7 @@ Do you want to translate our content in other languages?
 Please [help us](https://github.com/Beyondactivismo/Beyondactivismo/issues/40) breaking the language barrier !!! 😃 💪 💪  
 
 **Translate our video**
-update-contributing.md
+
 If you want to help us to translate the video in the video and slides to another language please get in [contact with us](https://github.com/Beyondactivismo/Beyondactivismo/issues/40)
 
 
@@ -112,7 +112,7 @@ During the Mozilla Global Sprint you can reach us here:
 
 Twitter: [@beyondactivismo](https://twitter.com/beyondactivismo)   
 Github:  @beyondactivismo  
-Gitter:  Chat with us [here](https://gitter.im/Beyond-Activismo/BA-Mozsprint2018?utm_source=share-link&utm_medium=link&utm_campaign=share-link).  
+Gitter:  Chat with us [here](https://gitter.im/Beyond-Activismo/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link).  
 
 E-mail: contact@beyondactivismo.org / PGP Fingerprint 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72     
 [Public Key](https://pgp.mit.edu/pks/lookup?op=get&search=0x867F4D89D61F8F72)
