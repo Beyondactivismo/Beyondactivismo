@@ -6,9 +6,37 @@
 
 When looking for a History to tell, make sure that it matchs BA´s principles:
 
+*Human Rigths:
+
+*Human Right activist:* Human rights defenders or human rights activists are people who, individually or with others, act to promote or protect some variation of human rights. They can be journalists, environmentalists, whistle-blowers, trade unionists, lawyers, teachers, housing campaigners, and so on. They can do defend rights as part of their jobs or in a voluntary capacity. As a result of their activities, they can sometimes be the subject of reprisals and attacks of all kinds, including smears, surveillance, harassment, false charges, arbitrary detention, restrictions on the right to freedom of association, and physical attacks.
+
+*Human Rights:* rights inherent to all human beings, whatever our nationality, place of residence, sex, national or ethnic origin, colour, religion, language, or any other status.
+
+Some categories:
+Freedom of Expression
+Privacy
+Non discrimination
+Right to Life
+Liberty
+Personal Security
+Education
+Health care
+Right to a satisfactory environment
+Sexual and reproductive right
+Right to Marriage and Family
+Gender Equality
+Right to selfdetermination
+
+
  *Activism: 
  
- *Human Rigths: 
+  
+ 
+The principles we are working on:
+a) Opennes: Our project is thought as a open network of collaborators where they can work, give ideas, make improvements, take decisions, and so on.
+b) Decentralization: Our project is thought as a global community of passionate Internet users who share our vision. They can work in our platform where we are going to use open standards to facilitate the interoperability.
+c) Digital Inclusion: We believe in a place where everybody can participate without threats to our or others reputation, confidence, or safety. Beyond Activismo is aim to be a platform where we promote and expect diversity and respect. If we could achieve to everyone is because we are achieving our goal.
+
 
 ### 2.Who is the person beyond it?
 
