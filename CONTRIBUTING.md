@@ -80,8 +80,9 @@ Do you know an activist and you want us to interview him? Please let us know [he
 Do you want to translate our content in other languages? Please help us to make the language barrier not to be an obstacle to anymore 😃 💪 💪  
 
 **Translate our video**
-
+update-contributing.md
 If you want to help us to translate the video in the video and slides to another language please get in [contact with us](https://github.com/Beyondactivismo/Beyondactivismo/issues/40)
+
 
 Than open a new issue  [Issue](https://github.com/Beyondactivismo/Beyondactivismo/issues/new) with the titel translation-language. Please apply the following labels to your Issue so is easy to us to answer you  ![captura de pantalla 2018-05-01 a las 8 54 28 p m](https://user-images.githubusercontent.com/32823481/39488249-ebba9470-4d81-11e8-8ee6-f6bf3193a00e.png)
 
@@ -112,7 +113,7 @@ During the Mozilla Global Sprint you can reach us here:
 
 Twitter: [@beyondactivismo](https://twitter.com/beyondactivismo)   
 Github:  @beyondactivismo  
-Gitter:  Chat with us [here](https://gitter.im/Beyond-Activismo/BA-Mozsprint2018?utm_source=share-link&utm_medium=link&utm_campaign=share-link)  
+Gitter:  Chat with us [here](https://gitter.im/Beyond-Activismo/BA-Mozsprint2018?utm_source=share-link&utm_medium=link&utm_campaign=share-link).  
 
 E-mail: contact@beyondactivismo.org / PGP Fingerprint 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72     
 [Public Key](https://pgp.mit.edu/pks/lookup?op=get&search=0x867F4D89D61F8F72)

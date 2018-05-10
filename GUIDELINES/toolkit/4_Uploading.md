@@ -29,11 +29,11 @@ Interview code _ format code _ date _ categories
 
 E.g:
 
-text: 012 _ t _ 20042018 _ potable-water
+text: 012 _ t _ 20180420 _ potable-water
 
-video: 012 _ v _ 20042018 _ potable-water
+video: 012 _ v _ 20180420 _ potable-water
 
-fotos: 012 _ f _ 20042018 _ potable-water
+fotos: 012 _ f _ 20180420 _ potable-water
 
 
 **Language.**
