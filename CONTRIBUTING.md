@@ -35,7 +35,7 @@ We need help in different fields of expertise.
   + Suggest an activist
   + Help to translate
 
-3. [Feedback]()
+3. [Feedback](#3-feedback)
   + Toolkit (UX-Designer / Interface Designer)
   + General Feedback
 
