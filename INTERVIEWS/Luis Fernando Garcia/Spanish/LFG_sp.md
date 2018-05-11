@@ -5,7 +5,7 @@ Organización encargada de la seguridad tecnológica en México
 
 1.- ¿Quisiéramos saber de ti? ¿Cómo llegaste a involucrarte en temas de Derechos Humanos?
 
-Soy Luis Fernando García, de México. Cuando estaba estudiando derecho no me satisfacían sus áreas, no quería ser ni civilista, ni penalista, ni trabajar en corporativo, me gustaba el derecho constitucional en general. 
+_**Soy Luis Fernando García, de México**_. Cuando estaba estudiando derecho no me satisfacían sus áreas, no quería ser ni civilista, ni penalista, ni trabajar en corporativo, me gustaba el derecho constitucional en general. 
 La verdad es que desde que entré a estudiar derecho, lo hice pensando en adquirir herramientas para usarlas en beneficio de otros, y cuando empecé a conocer más sobre derechos humanos, me gustó mucho.  
 En la universidad tuve la oportunidad de participar en concursos de derechos humanos “Mout Courts”, aprendiendo cómo se protegían a nivel internacional. Afortunadamente partir de uno de esos concursos, logré tener una pasantía en la Corte Interamericana de Derechos Humanos adquiriendo mucho conocimiento al respecto. Ahí aprendí sobre cómo funciona el sistema interamericano de derechos humanos, cómo se protegen los dd.hh., cómo los Estados argumentaban los dd.hh. y cómo una Corte internacional decidía los casos de dd.hh.
 
