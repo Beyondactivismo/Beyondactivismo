@@ -6,38 +6,14 @@
 
 When looking for a History to tell, make sure that it matchs BA´s principles:
 
-*Human Rigths:
+*Human Rights* are all thoes "inherent to all human beings, whatever our nationality, place of residence, sex, national or ethnic origin, colour, religion, language, or any other status". 
 
-*Human Right activist:* Human rights defenders or human rights activists are people who, individually or with others, act to promote or protect some variation of human rights. They can be journalists, environmentalists, whistle-blowers, trade unionists, lawyers, teachers, housing campaigners, and so on. They can do defend rights as part of their jobs or in a voluntary capacity. As a result of their activities, they can sometimes be the subject of reprisals and attacks of all kinds, including smears, surveillance, harassment, false charges, arbitrary detention, restrictions on the right to freedom of association, and physical attacks.
-
-*Human Rights:* rights inherent to all human beings, whatever our nationality, place of residence, sex, national or ethnic origin, colour, religion, language, or any other status.
-
-Some categories:
-Freedom of Expression
-Privacy
-Non discrimination
-Right to Life
-Liberty
-Personal Security
-Education
-Health care
-Right to a satisfactory environment
-Sexual and reproductive right
-Right to Marriage and Family
-Gender Equality
-Right to selfdetermination
+*Human Rights Activism* is the constant search of a common good in this unequal world. Is the capacity to detect injustice and decide to take action on it.
 
 
- *Activism: 
- 
-  
- 
-The principles we are working on:
-a) Opennes: Our project is thought as a open network of collaborators where they can work, give ideas, make improvements, take decisions, and so on.
-b) Decentralization: Our project is thought as a global community of passionate Internet users who share our vision. They can work in our platform where we are going to use open standards to facilitate the interoperability.
-c) Digital Inclusion: We believe in a place where everybody can participate without threats to our or others reputation, confidence, or safety. Beyond Activismo is aim to be a platform where we promote and expect diversity and respect. If we could achieve to everyone is because we are achieving our goal.
+a *Human Right Activist* is every person how, individually or as part of a community, fights for a common good in an independent way. Excluding people how directliy represent govermental and military organizations. 
 
-
+   
 ### 2.Who is the person beyond it?
 
  Collecting this basic information can help you get to know the person better before you contact them.
@@ -77,7 +53,7 @@ c) Digital Inclusion: We believe in a place where everybody can participate with
 
 * Co-Working 
 
-* Open Source 
+* Open Source : Our project is thought as a open network of collaborators where they can work, give ideas, make improvements, take decisions, and so on.
 
 
 ### 2.Prepare yourself
@@ -94,16 +70,21 @@ c) Digital Inclusion: We believe in a place where everybody can participate with
 
 ### 3.History Content Guideline
 
+WE STILL NEED TO DEFINE THE SECTIONS OF THE INTERVIEW. 
+WE NEED TO SET UP A MIN/MAX NUMBER OF QUESTIONS
+WE SHOULD REVIEW SOME OF THE SUBTHEMES --> DO THEY REALLY MACH OUR GOALS? 
+
+
  **INTRODUCTION**
 
-   From our side, it is very important to set up a transparent and trustable environment.
+   We consider very important to set up a transparent and trustable environment.
    That is why we recommend to start with an introduction about our methodologies:
 
    * collect the history
    * upload the material on the platform
    * pass through the data checking team
    * pass through the design team
-   * be send to the person  to check the content and storytelling
+   * be send to the person to check the content and storytelling
    * possible corrections
    * publish it on www.beyondactivismo.org
 
@@ -124,7 +105,7 @@ c) Digital Inclusion: We believe in a place where everybody can participate with
 **BODY**
 
   As we believe on your contribution and creativity, it is important that you feel free to design you own storytelling.
-  We give you a guideline of the topics we consider you should approach in order to make a connection between all histories.
+  We give you a guide of the topics we consider you should approach in order to make a connection between all histories.
   Here are two tools that can be helpfully by writing your story-guide
 
   [User-Centered Research Guidelines ](https://www.circulardesignguide.com/post/lead-with-user-centred-research)  
@@ -145,26 +126,24 @@ _Examples:_
 
 _**B. Their motivations**_
 
-   1. Why and how they become an activists.
-   2. What motivates them every day to continue working as activists.
+   1. Why and how they become activists.
+   2. What motivates them every day to continue working.
    3. What are the positive and negative aspects in the life of an activist.
 
 _Examples:_
 
    * What motivated you to become an activist?
-   * When you decided to become an activist?
-   * There was a particular event that motivated you to become an activist?
+   * When you decided to become an activist? 
    * What motivates you to fight every day for your cause?
 
 
 _**C.Know their struggles, defeats and victories**_
 
-   1. Which are the major problems that they identified to achieve their goals and how they overcome them.
-   2. If they put their life in risk doing activism.
+   1. Which are the major problems when achieving their goals and how they overcome them.
+   2. Is their life in risk?
    3. What have been their joys or greatest victories fighting for their cause.
-   4. What did they learn about how to make increase the impact of their causes.
-   5. Which are the key aspects on their advocacy campaigns.
-   6. Which changes have they made in society or are they willing for (Real Examples).
+   4. What did they learn about how to increase the impact on their causes.
+   5. Which changes have they made in society or are they willing for (Real Examples).
 
 _Examples:_
 
