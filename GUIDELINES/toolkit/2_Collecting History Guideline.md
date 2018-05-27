@@ -49,12 +49,11 @@ a *Human Right Activist* is every person how, individually or as part of a commu
 
 ### 1.Key principles to get a Fair History
 
-* Human Centered Research 
+* Human Centered Research: hve a nice and respectfull conversation, create a EMPATHIC enviroment. If they tell something you see it is important for them, keep diging on that. Ask them about their fellings and thoughts. Rembember to ask what is worthfull for them to be asked.  
 
-* Co-Working 
+* Co-Working:  
 
-* Open Source : Our project is thought as a open network of collaborators where they can work, give ideas, make improvements, take decisions, and so on.
-
+* Open Source: Our project is thought as a open network of collaborators where they can work, give ideas, make improvements, take decisions, and so on. Working on such a comuity gives you the oportunity to find support any time you need. So don´t hessitate on conntact others. Ask for their opinions and clear up your doubts with other. Remember that learning from others expiriences is one of our milestones. 
 
 ### 2.Prepare yourself
 
