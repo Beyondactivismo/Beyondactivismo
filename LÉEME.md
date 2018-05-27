@@ -1,60 +1,42 @@
 [![Logo](https://raw.githubusercontent.com/Beyondactivismo/Beyondactivismo/master/CI/Logo/meet-BA-vimeo.png)](https://vimeo.com/user84907397/meet-beyondactivismo)  
--_Our goal is to understand what people from different cultures, religions, and countries have in common through their activism. Exploring how activist can help each other, is an amazing but difficult task. With that in mind we are working on an open project that tries to connect and share the histories & experiences of human rights activists, delivering the content in different languages, in attractive and creative ways._
-+_Nuestro objetivo es comprender lo que las personas de diferentes culturas, religiones y países tienen en común a través de su activismo. Explorar cómo los activistas pueden ayudarse unos a otros es una tarea increíble pero difícil. Con esto en mente, estamos trabajando en un proyecto abierto que intenta conectar y compartir las historias y experiencias de activistas de derechos humanos, entregando el contenido en diferentes idiomas, de maneras atractivas y creativas._
+_Nuestro objetivo es comprender lo que las personas de diferentes culturas, religiones y países tienen en común a través de su activismo. Explorar cómo los activistas pueden ayudarse unos a otros es una tarea increíble pero difícil. Con esto en mente, estamos trabajando en un proyecto abierto que intenta conectar y compartir las historias y experiencias de activistas de derechos humanos, entregando el contenido en diferentes idiomas, de maneras atractivas y creativas._
  
  
  ![Mozsprint](https://github.com/mozilla/global-sprint/blob/master/img/GlobalSprint-Logo.png)  
  
--# Welcome
-+# Bienvenidos
+
+# Bienvenidos
  
--Hi! Welcome to Beyond Activismo at the mozilla global sprint!
-+Hola! Bienvenido a Beyond Activismo en el sprint global de Mozilla.
+Hola! Bienvenido a Beyond Activismo en el sprint global de Mozilla.
  
--Thank you very much  for visiting us, we are very happy to share information about the project, and to have the possibility of inviting you to be part of this community.
-+Muchas gracias por visitarnos, estamos muy felices de compartir información acerca del proyecto y de tener la posibilidad de invitarte a formar parte de esta comunidad.
+Muchas gracias por visitarnos, estamos muy felices de compartir información acerca del proyecto y de tener la posibilidad de invitarte a formar parte de esta comunidad.
  
--You can read about our project :arrow_down: here :arrow_down:, read the [Contributing](https://github.com/Beyondactivismo/Beyondactivismo/issues/46) or just introduce yourself [here](https://github.com/Beyondactivismo/Beyondactivismo/issues/46) and meet the team!
-+Puedes leer sobre nuestro proyecto aquí :arrow_down:, leer el [Contribuyente](https://github.com/Beyondactivismo/Beyondactivismo/issues/46) o simplemente presentarte [aquí](https://github.com/Beyondactivismo/Beyondactivismo/issues/46) y conocer al equipo!
+Puedes leer sobre nuestro proyecto aquí :arrow_down:, leer el [Contribuyente](https://github.com/Beyondactivismo/Beyondactivismo/issues/46) o simplemente presentarte [aquí](https://github.com/Beyondactivismo/Beyondactivismo/issues/46) y conocer al equipo!
  
--If you want you can jump straight to one of the sections below, or just scroll down to find out more :smiley:
-+Si lo deseas, puedes ir directamente a una de las secciones que veras a continuación, o simplemente desplazarte hacia abajo para obtener más información.
+Si lo deseas, puedes ir directamente a una de las secciones que veras a continuación, o simplemente desplazarte hacia abajo para obtener más información.
  
--* [What are we doing?](#what-are-we-doing)
--* [What is our solution?](#what-is-our-solution)
--* [How do we plan to achieve this?](#how-do-we-plan-to-achieve-this)
--* [Why it is exciting to take part in Beyond Activismo?](#why-it-is-exciting-to-take-part-in-beyond-activismo)
--* [Get involved?](#get-involved)
-+* [Qué estamos haciendo?](#what-are-we-doing)
-+* [Cuál es nuestra solución?](#what-is-our-solution)
-+* [Cómo planeamos lograr esto?](#how-do-we-plan-to-achieve-this)
-+* [Por qués es emocionante participar en Beyond Activismo?](#why-it-is-exciting-to-take-part-in-beyond-activismo)
-+* [Involucrarte?](#get-involved)
+
+* [Qué estamos haciendo?](#what-are-we-doing)
+* [Cuál es nuestra solución?](#what-is-our-solution)
+* [Cómo planeamos lograr esto?](#how-do-we-plan-to-achieve-this)
+* [Por qués es emocionante participar en Beyond Activismo?](#why-it-is-exciting-to-take-part-in-beyond-activismo)
+* [Involucrarte?](#get-involved)
+* [Follow us and Chat with us](#follow-us-and-chat-with-us)
+* [Síguenos y chatea con nosotros](#follow-us-and-chat-with-us)
+* [Muchas gracias por visitarnos!](#many-thanks-for-visiting-us)
+* [Contáctanos](#contact-us)
  
--* [Follow us and Chat with us](#follow-us-and-chat-with-us)
--* [Many thanks for visiting us!](#many-thanks-for-visiting-us)
--* [Contact us](#contact-us)
-+* [Síguenos y chatea con nosotros](#follow-us-and-chat-with-us)
-+* [Muchas gracias por visitarnos!](#many-thanks-for-visiting-us)
-+* [Contáctanos](#contact-us)
+### ¿Qué estamos haciendo?
  
--### What are we doing?
-+### ¿Qué estamos haciendo?
+Estamos trabajando en un proyecto abierto que intenta conectar y compartir las historias y experiencias de activistas de derechos humanos, entregando el contenido en diferentes idiomas, de forma atractiva y creativa.
+Los problemas que queremos resolver son los siguientes:
  
--We are working in an open project that tries to connect and share the histories & experiences of human rights activists, delivering the content in different languages, in attractive and creative ways.
-+Estamos trabajando en un proyecto abierto que intenta conectar y compartir las historias y experiencias de activistas de derechos humanos, entregando el contenido en diferentes idiomas, de forma atractiva y creativa.
-+Los problemas que queremos resolver son los siguientes:
+1. Cuando los temas de derechos humanos son discutidos en las noticias, a menudo no se presta atención a los activistas. Incluso si sus luchas obtienen atención a nivel mundial, ellos no se visibilizan, por lo que sus motivos, estrategias y experiencias se pierden.
+2. Los activistas de derechos humanos en todo el mundo no tienen una herramienta fácil para conectarse entre ellos, y es importante que puedan compartir sus experiencias para empoderar a otros.
+3. Recopilar y distribuir información es una tarea demasiado grande para sólo un par de personas.
  
--The problems that we want to solve are the following:
-+1. Cuando los temas de derechos humanos son discutidos en las noticias, a menudo no se presta atención a los activistas. Incluso si sus luchas obtienen atención a nivel mundial, ellos no se visibilizan, por lo que sus motivos, estrategias y experiencias se pierden.
-+2. Los activistas de derechos humanos en todo el mundo no tienen una herramienta fácil para conectarse entre ellos, y es importante que puedan compartir sus experiencias para empoderar a otros.
-+3. Recopilar y distribuir información es una tarea demasiado grande para sólo un par de personas.
- 
--1. When human rights topics are discussed in the news, often activists lack attention. Even if their struggles get worldwide attention, _they_ often are not visible, their motives, strategies and experiences are lost.
--2. Human rights activists around the world don’t have an easy tool for connecting with each other, and it is important that they can share their experiences to empower others.
--3. Collecting and distributing information is too big a task for only a couple of people.
-+### Cuál es nuestra solución?
-+Con esos problemas como punto de partida, se nos ocurrió la idea de una plataforma multilingüe segura, que funciona como una red de colaboración abierta entre diferentes personas en todo el mundo.
+### Cuál es nuestra solución?
+Con esos problemas como punto de partida, se nos ocurrió la idea de una plataforma multilingüe segura, que funciona como una red de colaboración abierta entre diferentes personas en todo el mundo.
  
 -### What is our solution?
 -With those problems as a starting point, we came up with an idea for a safe multilingual platform, that works as an open collaboration network between different people around the world.
