@@ -2,9 +2,9 @@
 
 # Finding a History
 
-### 1.Does the History match BA´s principles?
+### 1.Does the History match BA´s values?
 
-When looking for a History to tell, make sure that it matchs BA´s principles:
+When looking for a History to tell, make sure that...
 
 *Human Rights* are all thoes "inherent to all human beings, whatever our nationality, place of residence, sex, national or ethnic origin, colour, religion, language, or any other status". 
 
@@ -69,8 +69,7 @@ a *Human Right Activist* is every person how, individually or as part of a commu
 
 ### 3.History Content Guideline
 
-WE STILL NEED TO DEFINE THE SECTIONS OF THE INTERVIEW. 
-WE NEED TO SET UP A MIN/MAX NUMBER OF QUESTIONS
+COMMENTS: WE STILL NEED TO DEFINE THE SECTIONS OF THE INTERVIEW. WE NEED TO SET UP A MIN/MAX NUMBER OF QUESTIONS
 WE SHOULD REVIEW SOME OF THE SUBTHEMES --> DO THEY REALLY MACH OUR GOALS? 
 
 
