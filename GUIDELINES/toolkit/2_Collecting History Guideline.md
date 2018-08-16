@@ -1,4 +1,4 @@
-
+![captura de pantalla 2018-04-14 a las 5 36 52 p m](https://user-images.githubusercontent.com/32823481/38769888-7f244cea-400a-11e8-80a7-293dc415c086.png) 
 
 # Finding a History
 
@@ -209,3 +209,11 @@ E.g [Of organization](https://www.circulardesignguide.com/post/embed-feedback)
 
 
                                  Before starting double check everything!!!
+
+
+If you have questions or want to give us feedback do not hesitage to contact us! 
+
+Twitter: [@beyondactivismo](https://twitter.com/beyondactivismo)   
+Github:  @beyondactivismo  
+E-mail: contact@beyondactivismo.org / PGP Fingerprint 04EE 9A7C 31B7 7C92 3C34 F1D5 867F 4D89 D61F 8F72     
+[Public Key](https://pgp.mit.edu/pks/lookup?op=get&search=0x867F4D89D61F8F72)
