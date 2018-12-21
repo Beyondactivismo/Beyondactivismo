@@ -25,7 +25,7 @@ Sin dinero, sin logo y casi sin nombre, decidimos hacer algo y tratar de incidir
 
 _**Fue así como nos dimos cuenta de que era posible hacer una incidencia y a partir de ahí seguimos trabajando y haciendo crecer la organización, y bueno ya a 3 años y medio, casi cuatro años de esa experiencia, ya somos una organización más establecida con líneas de trabajo y con mucho aprendizaje de cómo hacer trabajo desde la sociedad civil**_. 
 
-**2.- Muchas veces uno tiene la iniciativa de hacer algo pero se ve enfrentado a que como persona para llegar a hacer y lograr cosas solo, es muy difícil, y ahí es cuando uno empieza a tratar de  impulsar una organización o tratar de mover a personas para generar un proyecto. ¿Cómo fue para ti, en el fondo para ustedes, ese proceso de establecerse?**
+**2.- Muchas veces uno tiene la iniciativa de hacer algo pero hacerlo sólo es muy dificil, sin embargo, impulsar una organización o tratar de motivar a personas para generar un proyecto también lo és ¿Cómo fue para ti o para ustedes, ese proceso de establecerse con R3D?**
 
 Si, bueno de entrada claro fue muy importante que las personas que fundamos R3D ya nos conocíamos. Esto fue después de un periodo de movilizaciones estudiantiles muy fuertes en México, en donde muchos de los que fundaron R3d estuvieron involucrados. Algunos nos conocimos en internet opinando sobre temas y reconociendo que teníamos puntos de vista e intereses similares, de ahí nos juntamos y decidimos formar la organización. Creo que hay un punto muy importante, y es el de encontrar espacios para interactuar, reconocerse y para tomar la decisión de trabajar en conjunto. 
 
