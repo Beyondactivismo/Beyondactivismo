@@ -1,4 +1,4 @@
-We would love to know about you and how did you get involved in Human Rights?
+1.- We would love to know about you and how did you get involved in Human Rights?
 
 I am Luis Fernando García, from México. When I was studying law I wasn´t satisfied with the possible areas, I didn´t want to be a civil lawyer, or a criminal lawyer, or a corporate lawyer, I liked constitutional law in general. The truth is that since I started studying law, I did it thinking in acquiring tools to use them in benefit of others, and when I started to know more about human rights, I liked it a lot.
 
@@ -23,7 +23,7 @@ Without money, without a logo and almost no name, we decided to do something and
 
 That´s how we realized that it was possible to influence, from there we continued working and making the organization grow, well now three and a half years, almost four years of that experience, we are already an established organization with lines of work and with a lot of learning how to do work from civil society.
 
-Many times you have the initiative to do something but doing it is only very difficult, however, promoting an organization or trying to motivate people to generate a project is also difficult. How was for R3D the process of establishment?
+2.- Many times you have the initiative to do something but doing it is only very difficult, however, promoting an organization or trying to motivate people to generate a project is also difficult. How was for R3D the process of establishment?
 
 
 Yes, well of course it was very important that the people we founded R3D allready knew each other. This was after a period of very strong student mobilizations in Mexico, where many of those who founded R3d were involved. Some of us met on the internet giving opinions on issues and recognizing that we had similar points of view and interests, from there we got together and decided to form the organization. I think there is a very important point, and that is to find spaces to interact, recognize each other and make the decision to work together.
@@ -37,7 +37,7 @@ I think that at the personal level and also at the institutional level when we h
 In general, with any topic, and especially with those that involve technology, sometimes we can feel excluded or that understanding can be very complicated. Despite this, I think the important thing is to realize that it is not so difficult and that it is worth going to look for the knowledge that is missing to understand a problem or to understand a way to solve it.
 And it is what we have done, we do not assume that we know everything and that we are experts in absolutely any issue that has to do with technology and human rights but, on the contrary, we were learning and we have always been very open to discussion, debate, dialogue, to research, to study and to learn. I think that learning is something that can not be lost because if you lose it you get left behind. Especially in subjects that move so fast.
 
-Going back to what you said, what is it that motivates you to take these issues forward? In spite of all the obstacles that there were in the beginning and that continue to exist, where does that personal motivation come from, is there any particular event that has made you take the initiative?
+3.- Going back to what you said, what is it that motivates you to take these issues forward? In spite of all the obstacles that there were in the beginning and that continue to exist, where does that personal motivation come from, is there any particular event that has made you take the initiative?
 
 
 In general, I have always been interested in what happens around me and in a certain way I have felt responsible for doing what I can so that what happens around will be the best for me and for others.
@@ -49,7 +49,7 @@ I am a believer that if we make knowledge, science and culture more accessible t
 
 Anyway, I do not explain in a clear way the answer to the question because it is not so clear to me either, but there is a feeling in me that working, searching and making technology, knowledge, culture, and science are available to a greater number of people has a transforming potential for the exercise of rights, very broad and that can also transform very painful realities that are happening in the world and in my country.
 
-Although you did mention of it, could you tell us about how was it to emerge in a society that had different priorities on issues of human rights? How was the collaboration with respect to other human rights organizations? Was there mutual support?
+4.- Although you did mention of it, could you tell us about how was it to emerge in a society that had different priorities on issues of human rights? How was the collaboration with respect to other human rights organizations? Was there mutual support?
 
 I think that, particularly in Mexico, when we started to talk about these issues there were many people who did not understand their relevance, and, above all, in the face of the emergency, violence, the human rights crisis that the country was going through, talking about Internet may seem secondary, but I believe that over time and with work, which we have done deliberately, we have managed to build relationships with traditional human rights organizations and with other types of human rights defenders. And to build together an understanding of the importance that these technologies have for the exercise of all rights, I believe that the circumstances were also making it more evident.
 In an environment in which there were very frequent restrictions on the exercise of various rights in Mexico such as protest, freedom of expression, where there were intentions of very strong media control, where civil society organizations in Mexico were becoming very important actors, with more influence and practically the most important opposition to a government that was not acting in a very democratic way.
@@ -62,12 +62,12 @@ There is a lot of solidarity, it has been built and I believe that these process
 Also, in Mexico it does not make sense in the context of the human rights crisis that exists, to try to do advocacy work without seeing and without deliberately trying to link it with that context, because it would not be very successful. So I think it has been something that we have been building along with other actors of civil society in a very deliberate, very gradual, very natural and very organic way.
 
 
-Do you consider yourself an activist?
+5.- Do you consider yourself an activist?
 
 I define myself more as a defender of human rights. I do not like the term activist because it suggests that there are certain citizens who decide or who can influence and I believe that any person can be without the need to be institutionalized or in an organization.
 But regardless of the label, I do conceive myself as a person who is interested in what happens and is interested in being an actor that contributes to improving things for everyone, for the majority.
 
-How do you define your activity in the defense and promotion of human rights?
+6.- How do you define your activity in the defense and promotion of human rights?
 
 We conceive what we do in a very multidisciplinary way and with many strategies. We always say that we do research because it is important to know the problems. If we do not investigate the problems that exist or are not well researched we do not have all the facts, it is a continuous process, you have to be constantly researching to be able to update and know very well the phenomena that you are dealing with. Starting from the knowledge of the problems and the analysis to develop strategies to influence and change it, we do a series of things, not only do we directly influence the decision-makers in the Congress, Government, Judicial Power or other international bodies, we also do litigation, we use legal tools that we have at our disposal to have an impact. We also carry out communication and education campaigns for the general public and also for target groups.
 Understanding that the changes, in general, happen from a planned strategic permanent work, that is oriented to create a narrative. At the end of the day they are cultural disputes and when you win, it is when you manage to build a narrative that manages to influence the culture in general.
@@ -76,7 +76,7 @@ While we speak to all, young people, children, adults, seniors, we understand th
 But we had to get these technologies, start using them and start to see the change that has occurred in our lives. This generation is key in defending these interests and these technologies as tools to expand the exercise of rights.
 Then we understand that all the work we do in research, advocacy, communication and litigation is also aimed at strengthening that winning narrative that these technologies and their democratic governance are very important to ensure that they serve to free us and empower us, make us better, to exercise more and better rights, and in a better way and not the other way around, in which these tools are used against us or by preventing the use of these tools because of the disruptive potential they may have.
 
-We know that each country has different situations and realities, and because of it, it is important to know the experience that you have had in relation to threats. Have you ever had any threat or felt threatened in any particular situation? How has you managed to overcome that?
+7.- We know that each country has different situations and realities, and because of it, it is important to know the experience that you have had in relation to threats. Have you ever had any threat or felt threatened in any particular situation? How has you managed to overcome that?
 
 We have not received direct threats, but like anyone who works on issues of public interest in Mexico, we have to be aware of the risks that this may entail. Unfortunately, in my country, there are attacks on journalists and human rights defenders very frequently.
 Whoever works in civil society can affect interests in government or other actors, so you have to take certain precautions about the things you do, the information you handle and the way in which you carry out your work. We take it very seriously and do everything possible to have protocols and mitigate risks, at the end the risks can not be eliminated. But if mitigate, to be able to respond adequately when they materialize. So even though we have not received a threat because of our work, we know that it is particularly frequent.
@@ -85,7 +85,7 @@ That yes, something that is very important is the communication, the team, to of
 
 There are many collective and also personal ways, there are several strategies that are adopted as digital security tools, training and even questions of self-care. How to make sure you have a network, a social network around that understands these circumstances and that accompanies you. This is very important, in our team we have built that social network, we also give space to be able to process those concerns. In addition, on a personal level we all have people with whom you have to talk, which have to be aware of what you are going through, in a way that we can take care of each other. I believe that communication is very important and not minimize the risks, not minimize how the perception of risks feels.
 
-Finally, giving a closing. Would you like to send a message to people who want to do things but still do not dare to do it, either because they feel they lack the support of other people or to become an organization? What is your message for people who want to do activism?
+8.- Finally, giving a closing. Would you like to send a message to people who want to do things but still do not dare to do it, either because they feel they lack the support of other people or to become an organization? What is your message for people who want to do activism?
 
 No doubt we were very lucky, fortunately our project has been successful and could be consolidated. There was a lot of uncertainty at the time of launching the project, we didn’t know what was going to happen. Fortunately we had the chance to try. The consequences of it not being successful were not so serious. However, what I do believe and share is that it is worth trying, this work is difficult but not impossible. It is not so difficult to get an advocacy project to succeed. You have to be patient, honest, you have to study and work every day to improve and to learn what is not yet known.
 
@@ -94,6 +94,6 @@ My advice is that if a person feels that they have a vocation or an interest in 
 
 My recommendation is that it is worthwhile, it is a job that gives you much more than the satisfaction of material needs because it feeds the soul and the intellect to dedicate itself to something in what you believe and in what you have your heart set. It is not necessary to think too much. I can not guarantee that everyone who wants to work from civil society can grow as fast and have as much impact as we have had. But I do not think we’re too special for anyone other than us to do it. When I started this project I had no idea of many things, along the way I have been learning and I have also found other people who are initiating projects with which I share my experience and knowledge so that they can anticipate the things that will be found. For me it was also like that, many people in many moments of the project shared their knowledge about how to be more effective, how to build an institution, how to strengthen it and that helped us a lot.
 
-What activist would you recommend for an upcoming interview?
+9.- What activist would you recommend for an upcoming interview?
 
 I recommend Rami Raoof.
