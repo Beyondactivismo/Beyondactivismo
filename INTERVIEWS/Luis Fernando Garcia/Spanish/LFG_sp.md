@@ -29,7 +29,7 @@ _**Fue así como nos dimos cuenta de que era posible hacer una incidencia y a pa
 
 Si, bueno de entrada claro fue muy importante que las personas que fundamos R3D ya nos conocíamos. Esto fue después de un periodo de movilizaciones estudiantiles muy fuertes en México, en donde muchos de los que fundaron R3d estuvieron involucrados. Algunos nos conocimos en internet opinando sobre temas y reconociendo que teníamos puntos de vista e intereses similares, de ahí nos juntamos y decidimos formar la organización. Creo que hay un punto muy importante, y es el de encontrar espacios para interactuar, reconocerse y para tomar la decisión de trabajar en conjunto. 
 
-_**Como tú dices, solo no se puede hacer mucho, y hay que encontrar aliados para hacer esfuerzos y proyectos que busquen incidir en el interés público_**. 
+_**Como tú dices, solo no se puede hacer mucho, hay que encontrar aliados para hacer esfuerzos y proyectos que busquen incidir en el interés público_**. 
  
 Y bueno, después fue un período de muchos aprendizajes, errores y aciertos también. Sobretodo aciertos en la intuición, en reconocer que había una necesidad que no estaba cubierta. También existió honestidad al reconocer qué herramientas teníamos , y así saber cuales utilizar y buscar para adquirirlas.
 
