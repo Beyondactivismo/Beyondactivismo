@@ -40,7 +40,7 @@ En general, con cualquier tema, y en especial con los que involucran tecnología
 _**Y es lo que hemos hecho, no asumimos que sabemos todo, y que somos expertos en absolutamente cualquier tema que tiene que ver con tecnología y derechos humanos sino que fuimos aprendiendo, y siempre hemos estado muy abiertos a la discusión, al debate, al diálogo, a la investigación, al estudio y a aprender. Creo que el aprendizaje es algo que no se puede perder porque eso si lo pierdes  te quedas atrás. Sobretodo en temas que se mueven tan rápido**_.
 
 
-**3.- Volviendo un poco a lo que decías, ¿Qué es lo que te motiva para llevar estos temas adelante? A pesar de todas las trabas que hubo en el comienzo y que siguen existiendo, ¿De dónde sale esa motivación personal, hay algún hecho en particular que te haya hecho tomar la iniciativa?**
+**3.- Volviendo a lo que decías, ¿Qué es lo que te motiva para llevar estos temas adelante? A pesar de todas las trabas que hubo en el comienzo y que siguen existiendo, ¿De dónde sale esa motivación personal, hay algún hecho en particular que te haya hecho tomar la iniciativa?**
 
 En general, siempre me ha interesado lo que pasa a mi alrededor y de cierta manera me he sentido responsable de hacer lo que pueda para que lo que pasa alrededor sea lo mejor para mí y para otros.
 
